@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fdc742ad-9553-4b4e-b5b6-04b63c20100a" name="Default Changelist" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/.idea/chords.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForTheSummer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ForTheSummer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lyrics.zip" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="chords" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gV7NV8wia5ljfSTGglsycgL2kn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fdc742ad-9553-4b4e-b5b6-04b63c20100a" name="Default Changelist" comment="" />
+      <created>1598187865960</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598187865960</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1431" y="308" key="CommitChangelistDialog2" timestamp="1598198075851">
+      <screen x="77" y="23" width="3363" height="1417" />
+    </state>
+    <state x="1431" y="308" key="CommitChangelistDialog2/77.23.3363.1417@77.23.3363.1417" timestamp="1598198075851" />
+    <state x="453" y="126" key="DiffContextDialog" timestamp="1598197485005">
+      <screen x="77" y="23" width="3363" height="1417" />
+    </state>
+    <state x="453" y="126" key="DiffContextDialog/77.23.3363.1417@77.23.3363.1417" timestamp="1598197485005" />
+    <state x="1044" y="471" key="Vcs.Push.Dialog.v2" timestamp="1598198862585">
+      <screen x="77" y="23" width="3363" height="1417" />
+    </state>
+    <state x="1044" y="471" key="Vcs.Push.Dialog.v2/77.23.3363.1417@77.23.3363.1417" timestamp="1598198862585" />
+    <state x="1586" y="626" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598197671865">
+      <screen x="77" y="23" width="3363" height="1417" />
+    </state>
+    <state x="1586" y="626" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/77.23.3363.1417@77.23.3363.1417" timestamp="1598197671865" />
+    <state x="1147" y="529" key="git4idea.merge.GitPullDialog" timestamp="1598198762694">
+      <screen x="77" y="23" width="3363" height="1417" />
+    </state>
+    <state x="1147" y="529" key="git4idea.merge.GitPullDialog/77.23.3363.1417@77.23.3363.1417" timestamp="1598198762694" />
+    <state x="1109" y="410" width="670" height="676" key="search.everywhere.popup" timestamp="1598425489205">
+      <screen x="77" y="23" width="3363" height="1417" />
+    </state>
+    <state x="1109" y="410" width="670" height="676" key="search.everywhere.popup/77.23.3363.1417@77.23.3363.1417" timestamp="1598425489205" />
+  </component>
+</project>
