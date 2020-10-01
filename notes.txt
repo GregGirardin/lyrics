@@ -1,24 +1,27 @@
-I'm Greg Girardin, the former lead engineer of the FM3 a year ago. I didn't leave. I was replaced and then fired. You then got a product 6 months late with less functionality and stability than my SW had in early 2019.
+Chameleaon
+Rockit
+Destitute Illusions
+
+Tony Labbe 207 577 5337
+
+scene 38 star wars, Shard of the past
+
+a.borazzas@gmail.com
+
+Spectrum 855-632-7020
+
+"Welcome to Spectrum Activation"
+"There are no devices to activate on your account"
+
+Says I have pending agreements, but there aren't any when I go to activate.
+
+
+Spectrum
 
 
 
-What happened? Cliff's code is hacky and inefficient so I fixed a lot of things and he got offended. Going to a three core system that has less CPU than the AFX3 required new messaging infrastructure which he didn't understand and would rather fire you than ask for an explanation for all the changes. Cliff likes global variables, putting resources in shared memory, and polling variables instead of using semaphores, rather than SW he doesn't understand. Not SW that is scalable at all. The FM3 will never be stable unless Cliff hires me again.. haha.
+Showing old router as connected, showing I have a TM602G
+
+Still  have pending terms, but active.spectrum.net doesn't show any
 
 
-
-Why? His code always ran on a system where everything was on one core except for some limited functionality on another core (The amp). This doesn't force you to be careful with SW architecture or write clean code. FM3 has functionality distributed across 3 cores, this is not a trivial architectural change.
-
-
-Did I make mistakes? Yes, I missed the headphone feedback HW issue and an issue with initializing the DRAM. Yes, these were my responsibility and I missed them. I take responsibility.
-
-
-
-Cliff is a brilliant DSP algorithm guy. A very good HW engineer, but below average at software. Unfortunately he has a huge ego so when you mess with his code he get's upset and then has Matt Picone fire you like the good "anything you say boss" pet he is. (He's actually a great guy, I'm just pointing out his involvement in my dismissal)
-
-
-
-Avoid Fractal until the SW is very mature. The engineers there are awesome and competent guys but the SW process is so backwards you'll never be able to trust a SW update until you as customers do the QA.
-
-
-
-FYI. I wrote a bunch of Python test utilities to validate release quality (TDD which real companies do) I wonder if they're still being used? j/k. Fractal is all ad hoc testing for SW quality.

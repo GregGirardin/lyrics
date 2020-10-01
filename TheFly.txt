@@ -1,12 +1,11 @@
 The Fly
-
+t!
 V: E A D E
 C: (C#m E A) A E
 S: B x 4
    E x 6 A D
    E x 2 C#m A E B C#m E A x 2
-
-Oh, baby child...
+t!
 
 It's no secret that the stars are falling from the sky
 It's no secret that our world is in darkness tonight
@@ -18,7 +17,7 @@ It's no secret that a liar won't believe anyone else
 They say a secret is something you tell one other person
 So I'm telling you, child
 
-  Love we shine like a burning star we're falling from the sky tonight
+  [Love we shine like a burning star we're falling * from the sky tonight]
   A man will beg a man will crawl from the sheer face of love like a fly on a wall
   It's no secret at all
 
@@ -27,13 +26,17 @@ It's no secret ambition bites the nails of success
 Every artist is a cannibal, every poet is a thief
 All kill their inspiration and sing about their grief
 
-  Love we shine like a burning star we're falling from the sky tonight
+  [Love we shine like a burning star we're falling * from the sky tonight]
   A man will rise a man will fall from the sheer face of love like a fly from a wall
   It's no secret at all
 
 Solo
 
-  Chorus x 2
+  [Love we shine like a burning star we're falling from the sky tonight]
+  [Love we shine like a burning star we're falling * from the sky tonight]
+  A man will rise a man will fall from the sheer face of love like a fly from a wall
+  It's no secret at all
+
 
 It's no secret that the stars are falling from the sky
 The universe exploded 'cause of one man's lie
