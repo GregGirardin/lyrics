@@ -2,48 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fdc742ad-9553-4b4e-b5b6-04b63c20100a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AngelFromMontgomery.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BabyDontGetHooked.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Babylon-DM.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlackwaterPark.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DayOfTheEagle.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EveryThingSheWants.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fernando.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LessonsInLove.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Orion.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SomethingAboutYou.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TakeMeOut.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TheGrave.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TimeHasComeToday.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vincent.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BigBalls.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dreams.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HotelCalifornia.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LastDanceWithMaryJane.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RunningUpThatHill.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SheBlindedMe.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SweetDreams.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CastlesInTheAir.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CastlesInTheAir.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drive-Cars.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Drive-Cars.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FinestWorksong.txt" beforeDir="false" afterPath="$PROJECT_DIR$/FinestWorksong.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GBI-Acoustic.html" beforeDir="false" afterPath="$PROJECT_DIR$/GBI-Acoustic.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GBI-Elec.html" beforeDir="false" afterPath="$PROJECT_DIR$/GBI-Elec.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GBI-Elec.set" beforeDir="false" afterPath="$PROJECT_DIR$/GBI-Elec.set" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LucyInTheSky.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LucyInTheSky.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NoExcuses.txt" beforeDir="false" afterPath="$PROJECT_DIR$/NoExcuses.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pride.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Pride.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SheBlindedMeWithScience.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Song-2.0.pytab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Song-2.0.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Song.pytab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Song1.pytab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Song1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Song2.pytab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Song2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Song4.pytab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Song4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Song6.pytab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Song6.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Song7.pytab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Song7.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Song8.pytab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Song8.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Song9.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TNT.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TNT.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoloAcoustic.html" beforeDir="false" afterPath="$PROJECT_DIR$/SoloAcoustic.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TheFly.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TheFly.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnderTheMilkyWay.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UnderTheMilkyWay.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lyricMetadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/lyricMetadata.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/notes.txt" afterDir="false" />
     </list>
@@ -94,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598425533351</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="More songs.">
+      <created>1601562717343</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601562717343</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -135,21 +116,22 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="More songs." />
+    <option name="LAST_COMMIT_MESSAGE" value="More songs." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1431" y="308" key="CommitChangelistDialog2" timestamp="1598425533182">
+    <state x="1431" y="308" key="CommitChangelistDialog2" timestamp="1601562716972">
       <screen x="77" y="23" width="3363" height="1417" />
     </state>
-    <state x="1431" y="308" key="CommitChangelistDialog2/77.23.3363.1417@77.23.3363.1417" timestamp="1598425533182" />
+    <state x="1431" y="308" key="CommitChangelistDialog2/77.23.3363.1417@77.23.3363.1417" timestamp="1601562716972" />
     <state x="453" y="126" key="DiffContextDialog" timestamp="1598197485005">
       <screen x="77" y="23" width="3363" height="1417" />
     </state>
     <state x="453" y="126" key="DiffContextDialog/77.23.3363.1417@77.23.3363.1417" timestamp="1598197485005" />
-    <state x="1044" y="471" key="Vcs.Push.Dialog.v2" timestamp="1598425781977">
+    <state x="1044" y="471" key="Vcs.Push.Dialog.v2" timestamp="1601573249792">
       <screen x="77" y="23" width="3363" height="1417" />
     </state>
-    <state x="1044" y="471" key="Vcs.Push.Dialog.v2/77.23.3363.1417@77.23.3363.1417" timestamp="1598425781977" />
+    <state x="1044" y="471" key="Vcs.Push.Dialog.v2/77.23.3363.1417@77.23.3363.1417" timestamp="1601573249792" />
     <state x="1586" y="626" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598197671865">
       <screen x="77" y="23" width="3363" height="1417" />
     </state>
@@ -158,9 +140,9 @@
       <screen x="77" y="23" width="3363" height="1417" />
     </state>
     <state x="1147" y="529" key="git4idea.merge.GitPullDialog/77.23.3363.1417@77.23.3363.1417" timestamp="1598198762694" />
-    <state x="1109" y="410" width="670" height="676" key="search.everywhere.popup" timestamp="1601561901875">
+    <state x="1109" y="410" width="670" height="676" key="search.everywhere.popup" timestamp="1602468613388">
       <screen x="77" y="23" width="3363" height="1417" />
     </state>
-    <state x="1109" y="410" width="670" height="676" key="search.everywhere.popup/77.23.3363.1417@77.23.3363.1417" timestamp="1601561901875" />
+    <state x="1109" y="410" width="670" height="676" key="search.everywhere.popup/77.23.3363.1417@77.23.3363.1417" timestamp="1602468613388" />
   </component>
 </project>

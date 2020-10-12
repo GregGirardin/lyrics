@@ -1,27 +1,79 @@
-Chameleaon
-Rockit
-Destitute Illusions
+Band: Chameleaon Rockit Destitute Illusions
 
 Tony Labbe 207 577 5337
 
-scene 38 star wars, Shard of the past
-
 a.borazzas@gmail.com
 
-Spectrum 855-632-7020
+Goals
 
-"Welcome to Spectrum Activation"
-"There are no devices to activate on your account"
+Clear out under Willow
+Drainage trench under Willow
+  Rocks into trench
+  dirt to old fire pit
 
-Says I have pending agreements, but there aren't any when I go to activate.
+Thorns into woods
+Clear out firepit crushed stone
+Fill in firepit
 
+Start on Swift App for sampler project.
 
-Spectrum
+Take down speakers from office
+Take out book case from office (to Mike?)
+Disassemble Hut?
+Break up tennis court.
 
+* Make some mp3s with song segues
+* Shalya's address to mom
+* Pick up pine cones 95%
+* Take old electronics to garage
+* Bring branches into the woods
 
+-- Swift Notes --
+Cmd-R - build and run
+Cmd-Shift-L - Library
+Cmd-Shift-O - Open
 
-Showing old router as connected, showing I have a TM602G
+var varName:Type = XXX
+  var i:Int = 10
+  var myvar:Double = 0.1234
 
-Still  have pending terms, but active.spectrum.net doesn't show any
+func myFunc()
+{
 
+}
 
+func myFunc2( name:String, age:Int )
+{
+  print( "Hello \(name). You're \(age) years old" )
+}
+
+myFunc2( name:"blah", age: 30 )
+
+// return values
+func addVals( v1:Int, v2:Int ) -> Int
+{
+  let sum = v1 + v2
+
+  return sum
+}
+
+var sum = 0
+sum = addVals( v1:10, v2:30 )
+print( sum )
+
+// classes
+class myClass
+{
+  var myVar:Int = 0 // this is called a property in Swift
+
+  func func1() { }
+  func func2() { }
+}
+
+class myClass2: parentClass {}
+
+var myObj = myClass()
+
+var myObj2:myClass = myClass()
+
+myObj.func1()
