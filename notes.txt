@@ -1,33 +1,174 @@
+Jen PC: hallowell
+
+Roll The Old Chariot Along
+Thee Oh Sees
+"Sticky Hulks"
+-----
+Energy Storage
+  Renew prices low
+
+  Lithium Ion, too expensive for grid
+  Tesla - Power Wall
+        Power Pack (utility)
+        too expensive for grid scale
+
+  Flow batteries
+  Pumped Hydro
+  Gravity based
+  Thermal Storage
+  Compressed Air
+
+  Windpower
+
+  "Peaker plants"
+
+  Companies
+    Primus Power - modular energy pod 25kw 5-7 homes..
+
+  Energy Vault
+    Cranes / bricks instead of hydro.
+
+  ESS
+    Larger systems 100kW for 4 hours. 33kw 12 hrs
+   "Energy Warehouse"
+
+  Antora
+    Thermal storage
+
+
+----
+
+Eyes & Teeth ? Sven?
+
 Band: Chameleaon Rockit Destitute Illusions
 
 Tony Labbe 207 577 5337
 
 a.borazzas@gmail.com
+----------------------------------
+Nick : Cleveland
+Gelande : Sacramento
+Veni : Dallas?
 
-Goals
+----------------------------------
+----------------------------------
+Mental State (day/evening)
+----------------------------------
+----------------------------------
+  Mental issues:
+    Lack of mental focus
+    Lowgrade depression / lack of enjoyment
+    Lowgrade anxiety.
+    Hard to stay on task.
+    Poor problem solving
+    Balance is off a bit, feel like I "sway"
 
-Clear out under Willow
-Drainage trench under Willow
-  Rocks into trench
-  dirt to old fire pit
+  Tends to be an issue in the morning but not so much in the evening. The difference is subtle but
+  noticeable. (Zoloft withdrawal? Digestion/Diet?)
 
-Thorns into woods
-Clear out firepit crushed stone
-Fill in firepit
+  Sleep hasn't been a problem for over a month as of 10/25. 8+ hrs a night only wake up once or twice.
 
-Start on Swift App for sampler project.
+  Had been taking 25mg Zoloft last few months, will go back up to 50. Also mutli-vitamin / 10mg Lisinopril.
+  It's recommended to change Z in 25mg increments once/week. 50mg worked well for me for a couple years.
 
-Take down speakers from office
-Take out book case from office (to Mike?)
-Disassemble Hut?
-Break up tennis court.
+  Physically I feel very good, only mild normal soreness from outside work.
+  Digestion isn't very good, no aches though. That could be a psychological factor.
 
+  10/23: 4/4 (had 3 strong coffees previous days)
+  -- no more strong coffees --
+  10/24: 5/5+ (had 2 weak coffees, ~ 35mg Zoloft, felt really good in the evening)
+  10/25: 4+/4 (2 / 50mg Z)
+  10/26: 4+/5 (2 / 50mg) Felt really good in the evening.
+  10/27: 4+/4+(2 / 50mg) Felt good in the am, slightly off around noon.. lunch at 1:30, ok but not perfect after
+  * let's reduce then eliminate caffiene. I often feel off during the day and better at night which correllates.
+  10/28: 4+/5 (1.5 cof, 37.5mg Z.) Feel ok in the AM, better in the evening
+  10/29: 4+/  (2 / 50mg Z)
+  10/30: 5/5  (2 / 50mg)
+  10/31: 5/5  (2 / 50mg)
+  11/ 1: 5/5  (2 / 50mg)
+   Mood has been consistent for a while. I feel pretty good. Will stick at 50mg Z for a bit.
+  11/ 2: 5/   (2 / 50mg)
+
+  11/9: 5 # been mostly 4.5-5.5.. taking 37.5-50mg Z/day. 2 coffees.
+  11/17 # same, generally feel a little down/anxious in the AM but pretty good at night.
+          Mental focus is pretty good / normal. Feel worse w/o exercise so need 1-2 hrs.
+          Even moderate alcohol seems to affect sleep and mood negatively the next day.
+  11/23: Mental state has been better lately.
+
+----------------------------------
+----------------------------------
+Tasks
+----------------------------------
+----------------------------------
+
+Daily: Practice at least one set.
+       cardio: Run / Bike / Walk
+       Work on originals, lyrics
+       Weight. -> 155lb - Drop ice cream / clam dip / candy / whoopi pies
+         10/22 : 166
+         10/25 : 163
+         10/30 : 164
+         11/ 9 : 165 // haven't been cutting back on food at all.
+
+     Tgt 11/15 : 160
+
+Put clothes in drawers
+
+Rent NH
+Central Air for NH
+
+Swift
+  Sampler
+    Table View
+    Cell with multiple fields
+    play/loop mp3
+    play/loop midi
+    xfer mp3s from PC
+    BT pedal / audio interface
+
+  Dungeon Crawler
+    Spritekit
+
+  Set List
+
+Python
+  Helicopter game
+
+Javascript
+  JS Chords
+  Modal window for song information.
+
+Misc
+  C/C++ exercises
+  REST
+  Docker
+  Linux / VM?
+  SQL
+
+
+
+> Python Tkinter chopper game
+> Fix Fatbike (rideable, front brake weak)
+> House appraisal (Scheduled with Savard)
+
+* Fill in firepit.. soil / seed
+* Clear branches at driveway / willow
+* Replace garage lights
+* Take down speakers from office
+* hallway lights
+* Clear out firepit crushed
+* PRS strings / setup <- need Allen
+* Finish clearing out under Willow
+* Drainage trench under Willow
+* Watch Banas Swift vid
+* Take out book case from office (to Mike?)
 * Make some mp3s with song segues
 * Shalya's address to mom
 * Pick up pine cones 95%
 * Take old electronics to garage
 * Bring branches into the woods
 
+-----------------
 -- Swift Notes --
 Cmd-R - build and run
 Cmd-Shift-L - Library

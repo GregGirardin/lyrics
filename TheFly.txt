@@ -1,6 +1,6 @@
 The Fly
 t!
-V: E A D E
+V: Em A D Em
 C: (C#m E A) A E
 S: Bx4
    Ex6 A D

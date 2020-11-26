@@ -1,7 +1,7 @@
 Bad
 
-V: G C
-C: G C G F D C
+V:(E A)
+C:E A E D B A
 
 If you twist and turn away if you tear yourself in two again
 If I could, you know I would if I could, I would let it go
@@ -26,8 +26,8 @@ True colors fly in blue and black bruised silken sky and burning flag
 Colors crash, collide in blood shot eyes
 If I could you know I would if I could I would let it go
 
-This desperation, separation, condemnation, revelation, in temptation
-isolation, desolation, isolation
+This desperation, separation, condemnation, revelation
+in temptation, isolation, desolation, isolation
 
   Let it go and so fade away..
   I fade away...
