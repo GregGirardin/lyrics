@@ -218,3 +218,22 @@ var myObj = myClass()
 var myObj2:myClass = myClass()
 
 myObj.func1()
+
+
+
+-----------------------------------
+Autonomous Vehicle Uber..
+Analysis / studies of that market growth
+test sites? Google / Tesla?
+range of estimates of when AVs will take over market.
+
+sales, how many deployments..
+
+range of optimistic to pessimistic.. -> AV taxis on road <-
+
+Assuming regulation passes..
+For every AV, projection of how many registered vehicles off road.
+
+population density.
+
+Who is doign the AV testing? Tesla? Google? Status?

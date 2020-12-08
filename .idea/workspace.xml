@@ -2,58 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fdc742ad-9553-4b4e-b5b6-04b63c20100a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AlwaysOnMyMind.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BackHomeAgain.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BilleJean.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BridgeOfSighs.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BringOnTheNight.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DanceTheNightAway.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DiamondGirl.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DreamWeaver.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelterSkelter.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ICantGoForThat.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InsideOut.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LipsLikeSugar.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LoveIsAlive.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MexicanMoon.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OneNightInBangkok.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OurLipsAreSealed.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PsychoKiller.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PumpedUpKicks.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RedSkiesAtNight.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rio.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ShakedownStreet.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SmoothCriminal.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TaintedLove.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TakeOnMe.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TheCaptainOfHerHeart.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TheKillingMoon.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TrueFaith.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Wildfire.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BungleInTheJungle.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HowMuchIFeel.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IGoCrazy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MethodOf.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Paradise.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThankYouForBeingAFriend.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllTheseThingsIveDone.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AllTheseThingsIveDone.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndSheWas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AndSheWas.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackInTheUSSR.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BackInTheUSSR.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bad.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Bad.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BigBalls.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BigBalls.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CrazyLittleThing.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CrazyLittleThing.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Crossroads.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Crossroads.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DancingDays.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DancingDays.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DreamBrother.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DreamBrother.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BringOnTheNight.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BringOnTheNight.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GBI-Elec.html" beforeDir="false" afterPath="$PROJECT_DIR$/GBI-Elec.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GBI-Elec.set" beforeDir="false" afterPath="$PROJECT_DIR$/GBI-Elec.set" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IWillSurvive.txt" beforeDir="false" afterPath="$PROJECT_DIR$/IWillSurvive.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JealousAgain.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JealousAgain.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NoExcuses.txt" beforeDir="false" afterPath="$PROJECT_DIR$/NoExcuses.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RideOn.txt" beforeDir="false" afterPath="$PROJECT_DIR$/RideOn.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SheBlindedMe.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SheBlindedMe.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SoloAcoustic.html" beforeDir="false" afterPath="$PROJECT_DIR$/SoloAcoustic.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SoloAcoustic.set" beforeDir="false" afterPath="$PROJECT_DIR$/SoloAcoustic.set" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StuckInTheMiddle.txt" beforeDir="false" afterPath="$PROJECT_DIR$/StuckInTheMiddle.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TheFly.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TheFly.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/True.txt" beforeDir="false" afterPath="$PROJECT_DIR$/True.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnderTheMilkyWay.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UnderTheMilkyWay.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lyricMetadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/lyricMetadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICantGoForThat.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ICantGoForThat.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PsychoKiller.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PsychoKiller.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TakeOnMe.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TakeOnMe.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheCaptainOfHerHeart.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TheCaptainOfHerHeart.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/notes.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -118,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602471875906</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="More songs.">
+      <created>1606368576769</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606368576769</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -163,37 +133,25 @@
     <option name="LAST_COMMIT_MESSAGE" value="More songs." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1431" y="308" key="CommitChangelistDialog2" timestamp="1602471875587">
+    <state x="1431" y="308" key="CommitChangelistDialog2" timestamp="1606368576623">
       <screen x="77" y="23" width="3363" height="1417" />
     </state>
-    <state x="1431" y="308" key="CommitChangelistDialog2/77.23.3363.1417@77.23.3363.1417" timestamp="1602471875587" />
-    <state x="453" y="126" key="DiffContextDialog" timestamp="1598197485005">
-      <screen x="77" y="23" width="3363" height="1417" />
-    </state>
-    <state x="453" y="126" key="DiffContextDialog/77.23.3363.1417@77.23.3363.1417" timestamp="1598197485005" />
+    <state x="1431" y="308" key="CommitChangelistDialog2/77.23.3363.1417@77.23.3363.1417" timestamp="1606368576623" />
     <state x="813" y="319" key="SettingsEditor" timestamp="1604538292406">
       <screen x="77" y="23" width="3363" height="1417" />
     </state>
     <state x="813" y="319" key="SettingsEditor/77.23.3363.1417@77.23.3363.1417" timestamp="1604538292406" />
-    <state x="1044" y="471" key="Vcs.Push.Dialog.v2" timestamp="1606368552363">
+    <state x="1044" y="471" key="Vcs.Push.Dialog.v2" timestamp="1606368578034">
       <screen x="77" y="23" width="3363" height="1417" />
     </state>
-    <state x="1044" y="471" key="Vcs.Push.Dialog.v2/77.23.3363.1417@77.23.3363.1417" timestamp="1606368552363" />
-    <state x="1586" y="626" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598197671865">
+    <state x="1044" y="471" key="Vcs.Push.Dialog.v2/77.23.3363.1417@77.23.3363.1417" timestamp="1606368578034" />
+    <state x="931" y="455" width="667" height="486" key="find.popup" timestamp="1606785500761">
       <screen x="77" y="23" width="3363" height="1417" />
     </state>
-    <state x="1586" y="626" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/77.23.3363.1417@77.23.3363.1417" timestamp="1598197671865" />
-    <state x="931" y="455" width="667" height="486" key="find.popup" timestamp="1604966075493">
+    <state x="931" y="455" width="667" height="486" key="find.popup/77.23.3363.1417@77.23.3363.1417" timestamp="1606785500761" />
+    <state x="1109" y="410" width="670" height="676" key="search.everywhere.popup" timestamp="1607051337295">
       <screen x="77" y="23" width="3363" height="1417" />
     </state>
-    <state x="931" y="455" width="667" height="486" key="find.popup/77.23.3363.1417@77.23.3363.1417" timestamp="1604966075493" />
-    <state x="1147" y="529" key="git4idea.merge.GitPullDialog" timestamp="1598198762694">
-      <screen x="77" y="23" width="3363" height="1417" />
-    </state>
-    <state x="1147" y="529" key="git4idea.merge.GitPullDialog/77.23.3363.1417@77.23.3363.1417" timestamp="1598198762694" />
-    <state x="1109" y="410" width="670" height="676" key="search.everywhere.popup" timestamp="1606281920188">
-      <screen x="77" y="23" width="3363" height="1417" />
-    </state>
-    <state x="1109" y="410" width="670" height="676" key="search.everywhere.popup/77.23.3363.1417@77.23.3363.1417" timestamp="1606281920188" />
+    <state x="1109" y="410" width="670" height="676" key="search.everywhere.popup/77.23.3363.1417@77.23.3363.1417" timestamp="1607051337295" />
   </component>
 </project>

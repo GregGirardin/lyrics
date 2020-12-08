@@ -1,9 +1,8 @@
 The Captain Of Her Heart
 
-CM
-
+I: CM
 V: (Am G FM7) Am G D Dm G Am
-C: B G#m7 Gmaj7 A6
+C: B G#m7 GM7 A6
 
 It was way past midnight and she still couldn't fall asleep
 This night the dream was leaving she tried so hard to keep
@@ -14,3 +13,5 @@ Too long ago too long apart
 She couldn't wait another day for the captain of her heart
 As the day came up she made a stop
 She stopped waiting another day for the captain of her heart
+
+Intro
