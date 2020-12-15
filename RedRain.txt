@@ -1,10 +1,9 @@
 Red Rain
-t!
+
 I: C/Bb
 C: (Bb C/Bb) Dm
 V: Dm D11
 B: (Dm Bb Gm EbM7) Dm
-t!
 
   Red rain is coming down, red rain
   Red rain is pouring down, pouring down, all over me

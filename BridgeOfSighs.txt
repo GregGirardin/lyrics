@@ -1,9 +1,8 @@
 Bridge of Sighs
 
-t!
 D|-0h2p0h2
 
-e|--------3---3-----------------0-
+E|--------3---3-----------------0-
 B|--------3---3---2b3r2---------0-
 G|--------0-------2b3r2-----------
 D|--------------------------------
@@ -15,7 +14,6 @@ CM7 Asus2 G B7   Cmaj7 B7
 G|--------------------2-3-2----------
 D|---2---4--4s5---0-2--------0--0h2--
 E|-----------------------------------
-t!
 
 The sun don't shine the moon don't move the tides to wash me clean x 2
   Why so unforgiving and why so cold? Been a long time crossing bridge of Sighs

@@ -1,14 +1,12 @@
 Ventura Highway
 130bpm
 
-t!
-e |-5-7-5-------------------
-B |-------7--5-7-5--------7-
-G |----------------6--6-7---
+E|-5-7-5-------------------
+B|-------7--5-7-5--------7-
+G|----------------6--6-7---
 
 V: GM7 DM7
 C: ( GM7 DM7 ) F#m ( Em F#m ) G ( DM7 GM7)
-t!
 
 Chewing on a piece of grass, walking down the road
 Tell me, how long you gonna stay here, Joe?

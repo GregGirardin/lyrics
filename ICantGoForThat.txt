@@ -1,6 +1,5 @@
 I Can't Go For That
 
-t!
 D|-------1---1--3--|
 A|-----3---3-------|
 E|-1-1-------------|
@@ -10,7 +9,6 @@ Fm7 Bb
 V: (Cm7 F - Cm7 Ab Bb)
 P: C CM7 C7 FM7
 V: Cm7 F
-t!
 
 Easy, ready, willing, overtime
 Where does it stop, where do you dare me to draw the line

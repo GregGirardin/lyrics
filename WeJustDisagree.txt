@@ -1,11 +1,9 @@
 We Just Disagree
 
-t!
 I: E A B
 V: E  C#m B A  C#m B C#m E
 C: (A B E) C#m (E A B) C#m A E
     A B C#m  A B E
-t!
 
 Been away, haven't seen you in a while. How've you been?
 Have you changed your style and do you think

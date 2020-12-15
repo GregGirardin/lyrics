@@ -5,15 +5,11 @@ Capo 2
 Gmaj7 Dmaj7 - Gmaj7 G/A  Dmaj7
 
 V: GM7 - Em G/ADmaj7 G/A
-   Bm E7
-    Bm                  E7sus4 E7
-               A    G   F#m7  Em    Gmaj7  Dmaj7
+   Bm E7 Bm E7sus4 E7
+   A G F#m7 Em Gmaj7 Dmaj7
 
-C: Gmaj7 G/A               Dmaj7
-   Gmaj7  F#7            Bm
-   A Em  F#7 Bm A Em
-   F#7 Gmaj7           Dmaj7
-
+C: Gmaj7 G/A Dmaj7 Gmaj7 F#7 Bm A Em F#7 Bm A Em F#7 Gmaj7 Dmaj7
+B:  Bm F#m Em F#m - Gmaj7 F#sus F# - Bm A#+5 - Bm/A E/G# - Em - F#m Bm - A Em - F# Gmaj7 Dmaj7
 
 I don't know how this whole business started of you thinkin' that I have been untrue
 But if you think that we'd be better parted it's gonna hurt me, but I'll Break away from you
@@ -30,22 +26,11 @@ Girl, take hold of my hand and all will be forgiven, yeah
 
 Chorus
 
-Bm F#m Em F#m
-Gmaj7
-F#sus F#
-Bm A#+5
-Bm/A E/G#
-Em
-F#m Bm
-A Em
-F# Gmaj7 Dmaj7
-
-  mu-u-ch
-  So you try try to stay in the middle
-  And then you cry, well you cry just a little
-  Then you both realize just how foolish you've been
-  And you try to make amends but you're better off as friends
-  'Cause that's how much that's how much
+    So you try try to stay in the middle
+    And then you cry, well you cry just a little
+    Then you both realize just how foolish you've been
+    And you try to make amends but you're better off as friends
+    Cause that's how much that's how much
 
 How's your life been goin' on I've got a wife now years we've been growin' strong, oh no
 There's just something that I've got to say

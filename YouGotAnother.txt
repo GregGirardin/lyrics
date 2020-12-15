@@ -1,15 +1,13 @@
 You've Got Another Thing Comin
 
-t!
-|---------------4-
-|---2-----2---4-2-
-|---0-----0---2---
-|-2---0-2---------
+G|---------------4-
+D|---2-----2---4-2-
+A|---0-----0---2---
+E|-2---0-2---------
 
 I: F# x 4, E B F#
 C: F# D B F#,C#
 B: D A F#, D A C#
-t!
 
 One life I'm gonna live it up
 I'm takin flight said I'll never get enough.

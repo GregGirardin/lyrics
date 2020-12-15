@@ -1,6 +1,5 @@
 Hurt So Good
 
-t!
 I: A E
 V: (A E F#m D) (A E) F#m D E
 C: (A E) D F#m D E
@@ -10,7 +9,6 @@ B|-------3-3-3-2------------------------
 G|---2---4-4-4-2------2---2-----------2-
 D|---2---2-2-2-2------4---2----2--2-4---
 A|---0---------0---0--0---0-------------
-t!
 
 When I was a young boy, said put away those young boy ways
 Now that I'm gettin' older, so much older I love all those young boy days.

@@ -1,14 +1,11 @@
 Plush
-
-t!
-d|-3-3-3-3--3-3-3-|
-A|-3-2-1-0--0-1-2-|
-F|-0-3-2-0--0-0-0-|
+E|-3-3-3-3--3-3-3-|
+B|-3-2-1-0--0-1-2-|
+G|-0-3-2-0--0-0-0-|
 
 V: (G D/F# F C EbM7) (D Cadd9 G/B)
 C: (EbM7 FM7)
 B: G F C Eb D
-t!
 
 And I feel that time's a wasted go, so where ya going to tomorrow?
 And I see that these are lies to come, would you even care?

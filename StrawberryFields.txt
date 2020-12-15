@@ -1,15 +1,13 @@
 Strawberry Fields
 
-t!
 C: Em F# - D E F# - D A
 V: E EM7 E7 F#m E D A
    D E A /G# F#m - D E D A
 
-e|-10-9--------------
+E|-10-9--------------
 B|------10-8---------
 G|-----------9-7-6---
 D|-----------------7-
-t!
 
   Let me take you down, cause I'm going to
   Strawberry Fields, nothing is real, and nothing to get hung about

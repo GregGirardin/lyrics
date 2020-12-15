@@ -1,6 +1,5 @@
 Flagpole Sitta
 
-t!
 G|-7-9-11-14-12-11-9-7-5-9-5-9-7-|
 D|-------------------------------|
 A|-5-7-9--12-10-9--7-5-3-7-3-7-5-|
@@ -8,7 +7,6 @@ A|-5-7-9--12-10-9--7-5-3-7-3-7-5-|
 V: D Am C D
 C: D C D
 B: A G F D A
-t!
 
 I had visions, I was in them, I was looking into the mirror
 to see a little bit clearer, the rottenness and evil in me

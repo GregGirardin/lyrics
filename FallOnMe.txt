@@ -1,13 +1,12 @@
 Fall On Me
-t!
-E----3-0---5-3-------3-0--5-3------3-0-----|
-B--------------0--------------0--------3-5-|
-G-4-5----5-------4-5----5-------4-5--------|
+
+E|----3-0---5-3-------3-0--5-3------3-0-----|
+B|--------------0--------------0--------3-5-|
+G|-4-5----5-------4-5----5-------4-5--------|
 
 V: (Dm Am) (Dm G C F)  Dm G7
 C: (C Dm F G) F
 B: Am F Am G  Am F Dm G
-t!
 
 There's a problem feathers iron bargain buildings weights and pulleys
 Feathers hit the ground before the weight can leave the air

@@ -1,5 +1,5 @@
 Big Balls
-t!
+
 D|-9---9-8-7-5---5-7-8-9-
 A|-7---7-6-5-3---3-5-6-7-
 
@@ -8,7 +8,6 @@ A|-3-5--5--2-
 
 V:(E C5) D B
 C:(E C#m) C D A B
-t!
 
 I'm rather upper class high society
 God's gift to ballroom notoriety

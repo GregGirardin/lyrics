@@ -1,14 +1,12 @@
 Harvest Moon
 
-t!
----------9--
-10-12-10-10-
-11-11-11-11-
-0--0--0--0--
+E|----------9--
+B|-10-12-10-10-
+G|-11-11-11-11-
+D|-0--0--0--0--
 
 V: (Em D) (G D)
 C: (A7sus4 A7)
-t!
 
 Come a little bit closer hear what I have to say
 Just like children sleeping we could dream this night away

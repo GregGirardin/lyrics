@@ -1,9 +1,8 @@
 Old Man
-t!
+
 I: FM7 D Dsus4 D [ FM7: x00560 ]
 V: ( D F C [ G, F, G ] ), D C F G
 C: D Am7 Em7 G
-t!
 
   Old man look at my life, I'm a lot like you were
 
