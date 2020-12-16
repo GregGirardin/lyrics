@@ -1,5 +1,5 @@
 Lips Like Sugar
-
+f!
 D|-2-1-2-1--4---2-1-2-1----
 A|--------2----------------
 E|----------------------0--
@@ -7,6 +7,7 @@ E|----------------------0--
 V:(B E)
 C:B (A B)
 S:A (E B)x4 A - Riff
+f!
 
 She floats like a swan, grace on the water
 Lips like sugar, lips like sugar
