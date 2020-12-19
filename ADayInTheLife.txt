@@ -5,7 +5,7 @@ V: G Bm Em - C Em Am - G Bm Em - (C F Em) / Em CM7
 M: E D E B7sus4
 A: C G D A - E C G D A - E D C D
 f!
-
+<i>
 I read the news today oh boy about a lucky man who made the grade
 And though the news was rather sad well I just had to laugh
 I saw the photograph
@@ -17,7 +17,7 @@ Nobody was really sure if he was from the House of Lords
 I saw a film today oh boy the English army had just won the war
 A crowd of people turned away but I just had to look
 Having read the book. I'd love to turn you on
-
+</i>
   Woke up, fell out of bed, dragged a comb across my head
   Found my way downstairs and drank a cup and looking up, I noticed I was late
   Found my coat and grabbed my hat, made the bus in seconds flat
