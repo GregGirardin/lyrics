@@ -1,6 +1,6 @@
 Pink Houses
 
-I: G C G :
+I: G C G
 V: G - F C G
 C: (C G) D C
 

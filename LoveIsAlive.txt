@@ -5,8 +5,7 @@ D|-----8------------|
 A|-3------6-8--8-3--|
 E|-1------4-6--6-1--|
 
-V: F
-C: F Bb Eb Bb - F Bb Eb F [C2: Ab Bb]
+V: F   C: F Bb Eb Bb - F Bb Eb F [C2: Ab Bb]
 
 Well, I think it's time to get ready
 To realize just what I have found
@@ -21,12 +20,11 @@ I'll try to keep it together
 'Cause what I say may not happen the same way
 Now could be forever
 
-  My heart is on fire my soul's like a wheel that's turnin'
-  My love is alive...
+  My heart is on fire...
 
 There's a mirror moving inside my mind
 Reflecting the love that you shine on me
 Hold on now to that feelin'
 Let it flow, let it grow, ya, ya
 
-C2
+!C2

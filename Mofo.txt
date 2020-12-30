@@ -1,10 +1,7 @@
 Mofo
 
 A: 7-0...(3-0...)-3-3-4-5-6-7
-
-riff
-C: D C Am
-B: Am G F
+C: D C Am   B: Am G F
 
 Lookin' for to save my, save my soul
 Lookin' in the places where no flowers grow
@@ -30,10 +27,4 @@ Still lookin' for the face I had before the world was made
 
 !Chorus
 
-Soothe me, mother
-Rule me, father
-Move me, brother
-Woo me, sister
-Soothe me, mother
-Rule me, father
-Show me, mother
+Soothe me mother, Rule me father, Move me brother, Woo me sister

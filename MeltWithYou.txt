@@ -1,6 +1,7 @@
 Melt With You
 
-C F
+I: C F
+B: Em G Am C
 
 Moving forward using all my breath
 Making love to you was never second best
@@ -19,13 +20,9 @@ What I’m comprehending a race that long gone bye
 
 !Chorus
 
-Em G Am C
-
 The future’s open wide
 
-!Solo
-
-!Chorus
+!Solo / Chorus
 
 The future’s open wide
 

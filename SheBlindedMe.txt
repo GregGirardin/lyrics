@@ -1,7 +1,6 @@
 Blinded Me With Science
 
-V: E A - A7 Ab7 G7 - E F# A - G A B, E
-B: G A
+V: E A - A7 Ab7 G7 - E F# A - G A B, E   B: G A
 
 It's poetry in motion, she turned her tender eyes to me
 As deep as any ocean, as sweet as any harmony
@@ -21,7 +20,6 @@ It's poetry in motion, and now she's making love to me
 The spheres are in commotion, the elements in harmony
 She blinded me with science.. and hit me with technology
 
-<i>
 !Solo
 
   Good heavens Miss Sakamoto - you're beautiful!
@@ -33,4 +31,3 @@ She blinded me with science.. and hit me with technology
 But, it's poetry in motion, and when she turned her eyes to me
 As deep as any ocean, as sweet as any harmony
 She blinded me with science
-</i>

@@ -2,6 +2,7 @@ Lights
 
 C: (D Bm C) Bm C D
 B: (Bm G D) A Bm - G D
+S: Bm G D D  Bm G D A  Bm G D D  Bm C D Dsus2 D
 
   When the lights go down in the city
   And the sun shines on the bay
@@ -13,9 +14,5 @@ I want to get back to my City by the bay
 
 It's sad, oh, there's been mornings out on the road without you,
 Without your charms, Ooh, my.. Ooh, ooh  oooh
-
-!Chorus
-
-Bm G D D  Bm G D A  Bm G D D  Bm C D Dsus2 D
 
 !Chorus

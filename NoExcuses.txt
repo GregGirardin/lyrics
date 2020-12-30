@@ -1,6 +1,6 @@
 No Excuses
 
-(G A)(F G [A | D])
+V: (G A)   C:(F G [A | D])
 
 It's alright there comes a time got no patience to search for peace of mind.
 Layin low, want to take it slow no more hiding or disguising truths I sold.
@@ -12,7 +12,6 @@ It's okay, had a bad day hands are bruised from breaking rocks all day.
 Drained and blue, I bleed for you you think it's funny, well you're drowning in it too.
 
 !Chorus
-
 !Solo
 
 Yeah, it's fine, we'll walk down the line leave our rain a cold trade for warm sunshine.

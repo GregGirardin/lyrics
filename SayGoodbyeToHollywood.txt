@@ -1,6 +1,6 @@
 Say Goodbye To Hollywood
 
-C
+I: C
 V: C F
 C: (Dm G7 Am)
 B: Cmaj Am7 B7 Em C G G7-D-Dsus-D7
@@ -29,7 +29,4 @@ Some will last, some will just be now and then
 Life is a series of hellos and goodbyes
 I'm afraid it's time for goodbye again
 
-!Bridge
-
-v3
-!Chorus
+!Bridge / V3 / Chorus

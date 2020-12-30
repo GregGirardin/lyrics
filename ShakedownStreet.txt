@@ -1,6 +1,6 @@
 Shakedown Street
 
-Dm
+I: Dm
 V: (G F C9 Dm) (FM7 Em7) Ebm7 Dm7 G
 C: C7.. C#7
 
@@ -17,11 +17,11 @@ Nothin' here that could intrest you. Well...
 It's not because you missed out on the thing that we had to start.
 Maybe you had too much too fast... Or just over played your part.
 
-  !Chorus
+!Chorus
 
 Since I'm passing your way today. Well...
 I just stopped in 'cause I want to say...
 I recall your darkness when it crackled like a thundercloud.
 Don't tell me this town ain't got no heart... When I can hear it beat out loud!
 
-  !Chorus
+!Chorus

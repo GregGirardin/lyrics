@@ -1,9 +1,6 @@
 American Girl
 
-I: D
-V: (D E G A) A D G Em A
-C: G A D Bm G A D
-B: (G A D)
+I: D    V: (D E G A) A D G Em A    C: G A D Bm G A D    B: (G A D)
 
 Well, she was an American girl raised on promises
 She couldn't help thinking that there was a little more to life somewhere else
@@ -18,8 +15,4 @@ Yeah, she could hear the cars roll by, out on 441 like waves crashin' on the bea
 And for one desperate moment there he crept back in her memory
 God it's so painful when something that's so close is still so far out of reach
 
-!Chorus
-
-!Break
-
-!Solo
+!Chorus  / Break / Solo

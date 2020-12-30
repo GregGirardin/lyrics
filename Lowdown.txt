@@ -1,8 +1,6 @@
 Lowdown
 
-Em9 A13
-Dmaj7 C#7+5 Cmaj13 B7
-S: F#m9 B13
+I: (Em9 A13)   Dmaj7 C#7+5 Cmaj13 B7   S: F#m9 B13
 
 Baby's into runnin' 'round, hangin' with the crowd
 Puttin' your business in the street, talkin' out loud
@@ -11,7 +9,7 @@ I swear she must believe  it's all heaven-sent
 Hey boy, you better bring the chick around
 To the sad, sad truth, the dirty lowdown
 
-  Oooooo, oo, oo,oo I wonder who
+  Oooooo, oo, oo, oo I wonder who
 
 Nothin' you can't handle, nothin' you ain't got
 put your money on the table and drive it off the lot

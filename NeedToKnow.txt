@@ -1,8 +1,6 @@
 I need to Know
 
-V: D
-C: Em D C D
-S: A Em A Em B
+V: D   C: Em D C D   S: A Em A Em B
 
 Well the talk on the street says you might go solo
 A good friend of mine saw you leavin' by your back door
@@ -18,8 +16,4 @@ A good friend of mine saw you leavin' by your back door
 Who would've thought that you'd fall for his line
 All of a sudden it's me on the outside
 
-!Chorus
-
-!Solo
-
-!Chorus
+!Chorus Solo Chorus

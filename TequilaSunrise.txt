@@ -1,9 +1,6 @@
 Tequila Sunrise
 
-I: Am D7 G
-V: G D Am D7 G
-C: (Em C) Am D7
-B: Am D Bm E  Am B Em7 A
+I: Am D7 G   V: G D Am D7 G   C: (Em C) Am D7   B: Am D Bm E  Am B Em7 A
 
 It's another tequila sunrise staring slowly cross the sky said goodbye
 He was just a hired hand workin on a dream he planned to try the days go by
@@ -19,5 +16,4 @@ Oh and it's a hollow feelin when it comes down to dealin friends it never ends.
     Take another shot of courage
     Wonder why the right words never come, you just get numb
 
-It's another tequila sunrise this old world still looks the same
-Another frame.
+It's another tequila sunrise this old world still looks the same another frame.

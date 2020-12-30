@@ -1,8 +1,6 @@
 Something About You
 
-I: E C D E x2
-V: E C#m D Bm7 E
-P: E C D
+I: (E C D E)   V: E C#m D Bm7 E   P: E C D
 
 How, how can it be that a love carved out of caring
 Fashioned by fate could suffer so hard
@@ -18,17 +16,13 @@ Born of the years is it so wrong to be human after all
 
 If ever our love was concealed no one can say that we didn't feel
 A million things and a perfect dream of life
-Gone, fragile but free
-We remain tender together
-If not so in love
-It's not so wrong
-We're only human after all
+Gone, fragile but free we remain tender together
+If not so in love it's not so wrong we're only human after all
 
   These changing years they add to your confusion
   Oh and you need to hear the time that told the truth
 
   Because there's something about you, baby, so right
   I couldn't live without you, baby, tonight
-  And that there's something about you
-  Yeah
+  And that there's something about you yeah
   And I couldn't live without you tonight

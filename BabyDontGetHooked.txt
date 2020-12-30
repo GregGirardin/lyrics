@@ -10,9 +10,7 @@ D|-4-----------4--2-4---4-|
 A|-5-----------5----------|
 E|-5----------------------|
 
-I: A D
-V:(A D) C#m F#m Bm E7
-C:(A Bm E7 A)
+I: A D    V:(A D) C#m F#m Bm E7    C:(A Bm E7 A)
 
 Girl, you're gettin' that look in your eyes and it's startin' to worry me
 I ain't ready for no family ties nobody's gonna hurry me
@@ -20,7 +18,7 @@ Just keep it friendly, girl ccause I don't wanna leave
 Don't start clingin' to me, girl c ause I can't breathe
 
   Baby, baby, don't get hooked on me x 2
-  'Cause I'll just use you then I'll set you free
+  Cause I'll just use you then I'll set you free
   Baby, baby, don't get hooked on me
 
 Girl, you're a hot-blooded woman-child and it's warm where you're touchin me

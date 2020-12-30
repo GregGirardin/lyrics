@@ -5,7 +5,7 @@ B|-----------3p2--
 G|--2-0-2-2-----2-
 D|-2-----4--3-----
 
-V: Riff FM7 Dm7
+V: - FM7 Dm7
 P: Bb C F Bb  C G D
 C: (G C D) A
 

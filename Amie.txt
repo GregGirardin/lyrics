@@ -1,8 +1,6 @@
 Amie
 
-V: (A G D) (D C) E
-C: (A G D) Bm E
-O: A D FMaj7 A
+V: (A G D) (D C) E    C: (A G D) Bm E    O: A D FMaj7 A
 
 I can see why you think you belong to me.
 I never tried to make you think or let you see one thing for yourself.
@@ -18,7 +16,6 @@ Which way we should turn together or alone?
 I can never see what's right or what is wrong
 
 !Chorus
-
 !Harmonica D
 
 Now it's come to what you want, you've had your way.

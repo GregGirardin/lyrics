@@ -1,7 +1,7 @@
 Inside Out
 
 C: A E B A = A E F#
-   A E F# - A E F#
+ : A E F# - A E F#
 V: B F# A G - B F# A
 B: A E F#
 O: E B E F#

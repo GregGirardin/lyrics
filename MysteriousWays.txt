@@ -1,9 +1,6 @@
 Mysterious Ways
 
-I: A
-V: (A D A E) A
-C: (A D) (A D C G)
-B: Am D Am G - A D A C G
+I: A   V: (A D A E) A   C: (A D) (A D C G)   B: Am D Am G - A D A C G
 
 Johnny take a walk with your sister the moon
 Let her pale light in to fill up your room
@@ -27,4 +24,4 @@ If you want to kiss the sky better learn how to kneel, on your knees boy!
     By this love while you could stand there
     You could move on this moment follow this feeling
 
-!Chorus / !Solo
+!Chorus / Solo

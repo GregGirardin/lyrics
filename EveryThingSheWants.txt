@@ -1,9 +1,6 @@
 Everything she wants
 
-V: F#4 F# B4 E
-C: Bm C#m F#m
-B: Bm C#m F#m B D G#m7
-   F#m C#m C#
+V: F#4 F# B4 E    C: Bm C#m F#m    B: Bm C#m F#m B D G#m7    F#m C#m C#
 
 Uh huh huh, oh yeah, work, work
 

@@ -1,10 +1,7 @@
 And She Was
 
-V: (E A E)
-    Bb F C F - Bb C F
-    Bb F C F - Bb G C
-C: (E A D A)
-B: (Bm G)
+V: (E A E)   Bb F C F - Bb C F    Bb F C F - Bb G C
+C: (E A D A)   B: (Bm G)
 
 And she was lying in the grass, and she could hear the highway breathing
 And she could see a nearby factory, she's making sure she is not dreaming

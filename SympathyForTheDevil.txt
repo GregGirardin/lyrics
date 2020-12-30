@@ -1,7 +1,6 @@
 Sympathy For the Devil
 
-V: (E D A)
-C: B E - B A E
+V: (E D A)   C: B E - B A E
 
 Please allow me to introduce myself I'm a man of wealth and taste
 I've been around for a long, long year stole many a man's soul and faith
@@ -25,7 +24,7 @@ When after all it was you and me
 Let me please introduce myself I'm a man of wealth and taste
 And I laid traps for troubadours who get killed before they reached Bombay
 
-!Chorus / !Solo / !Chorus
+!Chorus / Solo / Chorus
 
 Just as every cop is a criminal and all the sinners saints
 As heads is tails just call me Lucifer cCause I'm in need of some restraint
