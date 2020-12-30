@@ -20,7 +20,7 @@ As I walked out, felt my own need just beginning.
   I'll wait in the queue when the trains come back;
   Lie with you where the shadows run from themselves.
 
-Intro
+!Intro
 
 At the party she was kindness in the hard crowd.
 Consolation for the old wound now forgotten.
@@ -30,6 +30,6 @@ She's just dressing, goodbye windows, tired starlings.
   I'll sleep in this place with the lonely crowd;
   Lie in the dark where the shadows run from themselves.
 
-Intro
+!Intro
 
-Solo
+!Solo

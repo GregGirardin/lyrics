@@ -17,7 +17,7 @@ Won't you lay it on the line? I need to hear it just one more time
 Each and every heart it seems, is bounded by a world of dreams
 Each and every rising sun, is greeted by a lonely one
 
-Chorus
+!Chorus
 
     Cause out on the ocean of life my love
     There's so many storms we must rise above
@@ -29,7 +29,7 @@ Chorus
 Make a promise take a vow, and trust your feelings its easy now
 Understand the voice within, and feel the changes already beginning
 
-  Chorus / Solo / Chorus
+  !Chorus / !Solo / !Chorus
 
     And how many words have I got to say?
     And how many times will it be this way?
@@ -41,4 +41,4 @@ Understand the voice within, and feel the changes already beginning
 Each and every heart it seems, is bounded by a world of dreams
 Each and every rising sun, is greeted by a lonely one
 
-Chorus
+!Chorus

@@ -4,9 +4,7 @@ D|-2-1-2-1--4---2-1-2-1----
 A|--------2----------------
 E|----------------------0--
 
-V:(B E)
-C:B (A B)
-S:A (E B)x4 A - Riff
+V:(B E)   C:B (A B)   S:A (E B)x4 A - Riff
 
 She floats like a swan, grace on the water
 Lips like sugar, lips like sugar
@@ -21,8 +19,9 @@ Sugar kisses sugar kisses
 Just when you think she's yours she's flown to other shores
 To laugh at how you break and melt into this lake
 
-Chorus
-Solo
+!Chorus
+
+!Solo
 
 She'll be my mirror reflect what I am
 A loser and a winner the king of Siam

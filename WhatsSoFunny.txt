@@ -1,7 +1,6 @@
 Whats so funny
 
-V: (G C) Em A D C
-B: (G D/F# Em [ C | A | D ] )
+V: (G C) Em A D C   B: (G D/F# Em [ C | A | D ] )
 
 As I walk through this wicked world
 Searching for light in the darkness of insanity
@@ -14,9 +13,9 @@ As I walk on through troubled times
 My spirit gets so downhearted sometimes
 So where are the strong ones and who are the trusted?
 And where is the harmony, sweet harmony
-  'Cause each time I feel it slippin away just makes me wanna cry
+  Cause each time I feel it slippin away just makes me wanna cry
   What's so funny 'bout peace, love, and understanding? Oh
 
-Solo
+!Solo
 
 So where are the strong ones...

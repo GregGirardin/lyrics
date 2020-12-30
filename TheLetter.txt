@@ -17,12 +17,12 @@ My baby just wrote me a letter
   Listen mister can't you see I got to get back to my baby once more
   Anyway
 
-Harmonica C
+!Harmonica C
 
-Chorus
+!Chorus
 
-Solo
+!Solo
 
-Chorus
+!Chorus
 
-V1, V2
+!V1, V2

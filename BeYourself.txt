@@ -1,7 +1,6 @@
 Be Yourself
 
-V: Bm D G Em
-B: G A Bm - F# E D
+V: Bm D G Em   B: G A Bm - F# E D
 
 Someone falls to pieces sleepin all alone someone kills the pain
 Spinning in the silence to finally drift away
@@ -17,7 +16,7 @@ Separate or united? [G] Healthy or insane? [Em]
 
   To be yourself is all that you can do x 4
 
-Solo
+!Solo
 
     And even when you've paid enough, been pulled apart, or been held up
     With every single memory of, the good or bad, faces of luck

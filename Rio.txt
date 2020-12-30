@@ -1,8 +1,6 @@
 Rio
 
-V: Em C Am7 C - Em C A C
-C: E B D A
-I: C#m A F# A
+I: C#m A F# A   V: Em C Am7 C - Em C A C   C: E B D A
 
 Moving on the floor now babe you're a bird of paradise
 Cherry ice cream smile I suppose it's very nice
@@ -19,16 +17,15 @@ Two of a billion stars, it means so much to me
 Like a birthday or a pretty view
 But then I'm sure that you know it's just for you
 
-  Chorus
-
-Intro
+!Chorus
+!Intro
 
 Hey now woo, look at that, did she nearly run you down
 At the end of the drive the lawmen arrive, you make me feel alive..
 I'll take my chance cause luck is on my side or something
 I know what you're thinking I tell you something, I know what you're thinking
 
-  Chorus
+!Chorus
 
   Her name is Rio, she don't need to understand
   And I might find her if I'm looking like I can

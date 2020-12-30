@@ -1,9 +1,8 @@
 Dancing Days
 
-V: (C C# C) C Bb A
-S: C C# Ebx3 F
+V: (C C# C) C Bb A   S: C C# Ebx3 F
 
-Riff
+!Riff
 
 Dancing days are here again, summer evenings grow.
 I got my flower I got my power, I got a woman who knows.
@@ -14,7 +13,7 @@ Crazy ways are evident, in the way you wearin your clothes.
 Sippin booze is precedent, as the evening starts to glow.
   I said it's alright...
 
-Riff
+!Riff
 
 You told your mama I'd get you home, but you didn't say that I had no car.
 I saw a lion he was standin' alone, with a tadpole in a jar.
@@ -24,4 +23,4 @@ So dancing days are here again, as the summer evenings grow.
 You are my flower, you are my power, you are my woman who knows.
   I said it's alright...
 
-Riff / Solo / Riff
+!Riff / Solo / Riff

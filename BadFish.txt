@@ -1,7 +1,7 @@
 Badfish
 
-(A Bm G) A D G
-(D A) D E
+V: (A Bm G) A D G
+C: (D A) D E
 
 When you grab a hold of me, tell me I will never be set free
 But I'm a parasite creep and crawl I step into the night
@@ -17,6 +17,6 @@ I dive deep when it's ten feet over head grab the reef from underneath my bed.
   Ain't got not quarrels with God, ain't got no time to grow old.
   Lord knows I'm weak, won't some body get me off this reef?
 
-Intro
+!Intro
 
   Ain't got not quarrels...

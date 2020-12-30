@@ -1,8 +1,6 @@
 Danny's Song
 
-V: ( D C Bm  E7 A )
-C: ( G A D Bm )
-     G A D C Bm E7 A
+V: ( D C Bm E7 A )   C: ( G A D Bm )   G A D C Bm E7 A
 
 People smile and tell me I'm the lucky one,
 and we've just begun, think I'm gonna have a son.

@@ -20,7 +20,7 @@ You say he satisfies your mind tells you all of his dreams I know how much that 
 I realize that I was blind just when I thought I was over you
 I see your face and it just ain't true, no it just ain't true
 
-Chorus
+!Chorus
 
 G ~ Cmaj7 Am7 Em7 Bm7 C Am7 Em7
 
@@ -30,4 +30,4 @@ Wo-ho
 Bm7 Em
 Wo-ho-ho
 
-Chorus
+!Chorus

@@ -8,12 +8,12 @@ One day, maybe next week I'm gonna meet ya...
   I will drive past your house and if the lights are all down
   I'll see who's around
 
-V1
+!V1
 
   And if the lights are all out I'll follow your bus downtown
   See who's hangin round!
 
-Solo
+!Solo
 
 One way, or another, I'm gonna lose ya I'm gonna give you the slip!
 A slip of the hip for another I'm gonna lose ya, I'm gonna trick ya!

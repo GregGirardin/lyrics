@@ -1,9 +1,6 @@
 Sledgehammer
 
-I: D D Bb Bb/A G
-V: D Bm
-C: Bm C Em7
-O: Dm Bb7 G7
+I: D D Bb Bb/A G   V: D Bm   C: Bm C Em7   O: Dm Bb7 G7
 
 Hey use it, everybody use it!
 You could have a steam train if you'd just lay down your tracks.
@@ -29,7 +26,7 @@ I've kicked the habit, shed my skin
 This is the new stuff, I go dancing in
 Won't you show for me, I will show for you
 
-Solo
+!Solo
 
 Won't you show for me, I will show for you
 

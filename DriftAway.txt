@@ -18,7 +18,7 @@ I don't understand the things I do
 The world outside looks so unkind
 I'm counting on you to carry me through
 
-Chorus
+!Chorus
 
     And when my mind is free you know a melody can move me
     And when I'm feelin blue the guitar's comin through to soothe me
@@ -28,4 +28,4 @@ I want you to know I believe in your song
 Rhythm and rhyme and harmony
 You help me along makin me strong
 
-Chorus
+!Chorus

@@ -1,12 +1,12 @@
 Don't stop believing
 
-   E           B        C#m       A
-A|-------------2-----4-6-4----6-7-0---6-7----|
-E|--0------2-4----------------------------0--|
+ | E          B         C#m      A
+A|------------2-----4-6-4----6-7-0---6-7----|
+E|-0------2-4----------------------------0--|
 
-   E          B          G#m    A
-A|-------------2-----4-6--------0--|
-E|--0------2-4------------4---4----|
+ | E          B          G#m   A
+A|------------2-----4-6--------0--|
+E|-0------2-4------------4---4----|
 
 Just a small town girl, living in a lonely world
 She took the midnight train going anywhere
@@ -33,9 +33,4 @@ Oh, the movie never ends; it goes on and on and on and on
   Streetlight, people, living just to find emotion
   Hiding, somewhere in the night
 
-Don't stop believing hold on to the feeling
-Streetlight people
-Don't stop believing hold on to the feeling
-Streetlight people
-Don't stop believing hold on to the feeling
-Streetlight people
+Don't stop believing hold on to the feeling. Streetlight people

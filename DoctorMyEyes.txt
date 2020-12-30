@@ -1,7 +1,6 @@
 Doctor My Eyes
 
-E D/E* A/E E
-
+I: E D/E* A/E E
 V: E G#m C#m A E
 C: C#m E C#m B A
 
