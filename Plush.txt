@@ -1,5 +1,5 @@
 Plush
-f!
+
 E|-3-3-3-3--3-3-3-|
 B|-3-2-1-0--0-1-2-|
 G|-0-3-2-0--0-0-0-|
@@ -7,7 +7,6 @@ G|-0-3-2-0--0-0-0-|
 V: (G D/F# F C EbM7) (D Cadd9 G/B)
 C: (EbM7 FM7)
 B:  G F C Eb D
-f!
 
 And I feel that time's a wasted go, so where ya going to tomorrow?
 And I see that these are lies to come, would you even care?
@@ -22,13 +21,13 @@ And I feel so much depends on the weather, so is it raining in your bedroom?
 And I see that these are the eyes of disarray, would you even care?
 And I feel it, and she feels it
 
-c!
+Chorus
 
      When the dogs do find her got time, time, to wait for tomorrow to find it...
 
 Intro
 
-c!
+Chorus
 
     When the dogs...
 

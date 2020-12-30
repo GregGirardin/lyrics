@@ -1,11 +1,10 @@
 The Fly
-f!
+
 V: Em A D Em
 C: (C#m E A) A E
 S: Bx4
-   Ex6 A D
-   Ex2 C#m A E B C#m E Ax2
-f!
+ : Ex6 A D
+ : Ex2 C#m A E B C#m E Ax2
 
 It's no secret that the stars are falling from the sky
 It's no secret that our world is in darkness tonight

@@ -1,3 +1,11 @@
+Alt to Out Of Africa:
+Milford Wolpoff Multispecies origin, I sent Michael Woodley some questions on this when he was still with Ed
+
+YankeeApple :
+ Robert Sepehr was the one he was talking about questioning the out of Africa theory.
+ He has a great YouTube channel
+
+
 Jen PC: hallowell
 
 Roll The Old Chariot Along
@@ -35,21 +43,10 @@ Energy Storage
   Antora
     Thermal storage
 
-
 ----
-
-Eyes & Teeth ? Sven?
-
-Band: Chameleaon Rockit Destitute Illusions
-
 Tony Labbe 207 577 5337
 
 a.borazzas@gmail.com
-----------------------------------
-Nick : Cleveland
-Gelande : Sacramento
-Veni : Dallas?
-
 ----------------------------------
 ----------------------------------
 Mental State (day/evening)
@@ -94,6 +91,10 @@ Mental State (day/evening)
           Mental focus is pretty good / normal. Feel worse w/o exercise so need 1-2 hrs.
           Even moderate alcohol seems to affect sleep and mood negatively the next day.
   11/23: Mental state has been better lately.
+
+
+WhiteHealing / Karpathos1977 know some nutrition stuff.
+Karpathos1977 recommends Keto
 
 ----------------------------------
 ----------------------------------
@@ -145,7 +146,6 @@ Misc
   Linux / VM?
   SQL
 
-
 > Fix Fatbike (rideable, front brake weak)
 > House appraisal (Scheduled with Savard)
 
@@ -164,54 +164,3 @@ Misc
 * Make some mp3s with song segues
 * Take old electronics to garage
 * Bring branches into the woods
-
------------------
--- Swift Notes --
-Cmd-R - build and run
-Cmd-Shift-L - Library
-Cmd-Shift-O - Open
-
-var varName:Type = XXX
-  var i:Int = 10
-  var myvar:Double = 0.1234
-
-func myFunc()
-{
-
-}
-
-func myFunc2( name:String, age:Int )
-{
-  print( "Hello \(name). You're \(age) years old" )
-}
-
-myFunc2( name:"blah", age: 30 )
-
-// return values
-func addVals( v1:Int, v2:Int ) -> Int
-{
-  let sum = v1 + v2
-
-  return sum
-}
-
-var sum = 0
-sum = addVals( v1:10, v2:30 )
-print( sum )
-
-// classes
-class myClass
-{
-  var myVar:Int = 0 // this is called a property in Swift
-
-  func func1() { }
-  func func2() { }
-}
-
-class myClass2: parentClass {}
-
-var myObj = myClass()
-
-var myObj2:myClass = myClass()
-
-myObj.func1()

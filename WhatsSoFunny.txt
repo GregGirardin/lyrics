@@ -1,7 +1,7 @@
 Whats so funny
 
-(G C) Em A D C
-(G D/F# Em [ C | A | D ])
+V: (G C) Em A D C
+B: (G D/F# Em [ C | A | D ] )
 
 As I walk through this wicked world
 Searching for light in the darkness of insanity

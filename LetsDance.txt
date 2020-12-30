@@ -1,8 +1,8 @@
 Lets Dance
 
-D7
-Am D F D
-G C D - G Em C D
+I: D7
+V: Am D F D
+C: G C D - G Em C D
 
 Let's dance put on your red shoes and dance the blues
 Let's dance to the song they're playin' on the radio

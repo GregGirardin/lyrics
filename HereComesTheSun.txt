@@ -1,5 +1,5 @@
 Here Comes The Sun
-f!
+
 V: A D E
 C: A D B7 A riff <i>A E in choruses after v1+2</i>
 
@@ -15,7 +15,6 @@ G|--------0------------ A E -- E4
 D|-------2---0--0--4---
 A|----2-3---2--0--5--0-
 E|0-4------3--2--------
-f!
 
   Here comes the sun x 2
   And I say, it's all right
@@ -23,12 +22,12 @@ f!
 Little darling it's been a long cold lonely winter
 ...it feels like years since it's been here
 
-c!
+Chorus
 
 ...the smiles returning to the faces
 ...it seems like years since it's been here
 
-c!
+Chorus
 
     Sun, sun, sun here it comes x 4
 

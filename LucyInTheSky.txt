@@ -1,5 +1,5 @@
 Lucy in the sky with diamonds
-f!
+
 E|---0-0---0------
 B|-----------3p2--
 G|--2-0-2-2-----2-
@@ -8,7 +8,6 @@ D|-2-----4--3-----
 V: Riff FM7 Dm7
 P: Bb C F Bb  C G D
 C: (G C D) A
-f!
 
 Picture yourself in a boat on a river with tangerine trees and marmalade skies
 Somebody calls you you answer quite slowly a girl with kaleidoscope eyes
@@ -22,9 +21,9 @@ Everyone smiles as you drift past the flowers that grow so incredibly high
 Newspaper taxis appear on the shore waiting to take you away
 Climb in the back with your head in the clouds and you're gone
 
-c!
+Chorus
 <i>
 Picture yourself on a train in a station with plasticine porters with looking glass ties
 Suddenly someone is there at the turnstile the girl with the kaleidoscope eyes
-c!
+Chorus
 </i>
