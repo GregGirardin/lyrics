@@ -15,9 +15,7 @@ A|--------|--------|-------
 E|--------|--------|-3-1-4-
 
 V: G Bb F Em - Eb D G F Ab
-C: Eb D G F Ab
-   Eb D C D
-   C Bb D
+C: Eb D G F Ab - Eb D C D - C Bb D
 
 In my eyes, indisposed in disguise as no one knows
 Hides the face, lies the snake the sun in my disgrace

@@ -1,6 +1,6 @@
 Overkill
 
-I: C#m B   V: (E B D A)   C: (C#m B) G#4 A B
+I: C#m B   V: (E B D A)   C: (C#m B) G#m A B
 
 I can't get to sleep I think about the implications
 Of diving in too deep and possibly the complications
@@ -16,4 +16,4 @@ It's time to walk the streets smell the desperation
 At least there's pretty lights and though there's little variation
 It nullifies the night from overkill...
 
-!Chorus / Solo / Verse 1 / Chorus
+!Chorus / Solo / V1 / Chorus

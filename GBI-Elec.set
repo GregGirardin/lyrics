@@ -150,7 +150,7 @@ sg18
 (dp65
 VArtist
 p66
-VEcho&Bunny
+VEagles
 p67
 sVTempo
 p68
@@ -158,21 +158,21 @@ NsVLength
 p69
 NsVKey
 p70
-VEm
+VBm
 p71
 sVYear
 p72
 NsVGenre
 p73
 Nssg28
-I00
+I01
 sg29
-S'TheKillingMoon.txt'
+S'HotelCalifornia.txt'
 p74
 sg31
 I0
 sg32
-S'The Killing Moon\n'
+S'Hotel California\n'
 p75
 sbag1
 (g13
@@ -186,7 +186,7 @@ sg18
 (dp79
 VArtist
 p80
-VEagles
+VEcho&Bunny
 p81
 sVTempo
 p82
@@ -194,7 +194,7 @@ NsVLength
 p83
 NsVKey
 p84
-VBm
+VEm
 p85
 sVYear
 p86
@@ -203,12 +203,12 @@ p87
 Nssg28
 I00
 sg29
-S'HotelCalifornia.txt'
+S'TheKillingMoon.txt'
 p88
 sg31
 I0
 sg32
-S'Hotel California\n'
+S'The Killing Moon\n'
 p89
 sbag1
 (g13
@@ -391,7 +391,7 @@ sg29
 S'RideOn.txt'
 p160
 sg31
-I0
+I1
 sg32
 S'Ride On\n'
 p161
@@ -422,7 +422,7 @@ p172
 NsVGenre
 p173
 Nssg28
-I01
+I00
 sg29
 S'DyerMaker.txt'
 p174
@@ -443,7 +443,7 @@ sg18
 (dp179
 VArtist
 p180
-VHall & Oates
+VSteely Dan
 p181
 sVTempo
 p182
@@ -451,21 +451,25 @@ NsVLength
 p183
 NsVKey
 p184
-VCm
+VEm
 p185
 sVYear
 p186
 NsVGenre
 p187
-Nssg28
+Nssg143
+Nsg144
+Nsg28
 I00
 sg29
-S'ICantGoForThat.txt'
+S'DoItAgain.txt'
 p188
-sg31
+sg7
+Nsg146
+Nsg31
 I0
 sg32
-S"I can't go for That\n"
+S'Do It Again\n'
 p189
 sbag1
 (g13
@@ -479,7 +483,7 @@ sg18
 (dp193
 VArtist
 p194
-VSteely Dan
+VGnarles Barkley
 p195
 sVTempo
 p196
@@ -493,19 +497,15 @@ sVYear
 p200
 NsVGenre
 p201
-Nssg143
-Nsg144
-Nsg28
+Nssg28
 I00
 sg29
-S'DoItAgain.txt'
+S'Crazy-CeeLo.txt'
 p202
-sg7
-Nsg146
-Nsg31
+sg31
 I0
 sg32
-S'Do It Again\n'
+S'Crazy (Cee Lo)\n'
 p203
 sbag1
 (g13
@@ -519,7 +519,7 @@ sg18
 (dp207
 VArtist
 p208
-VGnarles Barkley
+VCollective Soul
 p209
 sVTempo
 p210
@@ -527,7 +527,7 @@ NsVLength
 p211
 NsVKey
 p212
-VEm
+VBm
 p213
 sVYear
 p214
@@ -536,12 +536,12 @@ p215
 Nssg28
 I00
 sg29
-S'Crazy-CeeLo.txt'
+S'TheWorldIKnow.txt'
 p216
 sg31
 I0
 sg32
-S'Crazy (Cee Lo)\n'
+S'The World I Know\n'
 p217
 sbag1
 (g13
@@ -555,7 +555,7 @@ sg18
 (dp221
 VArtist
 p222
-VCollective Soul
+VBruce Springsteen
 p223
 sVTempo
 p224
@@ -563,21 +563,25 @@ NsVLength
 p225
 NsVKey
 p226
-VBm
+VG
 p227
 sVYear
 p228
 NsVGenre
 p229
-Nssg28
+Nssg143
+Nsg144
+Nsg28
 I00
 sg29
-S'TheWorldIKnow.txt'
+S'AllThatHeavenWillAllow.txt'
 p230
-sg31
+sg7
+Nsg146
+Nsg31
 I0
 sg32
-S'The World I Know\n'
+S'All That Heaven Will Allow\n'
 p231
 sbag1
 (g13
@@ -591,7 +595,7 @@ sg18
 (dp235
 VArtist
 p236
-VBruce Springsteen
+VSnow Patrol
 p237
 sVTempo
 p238
@@ -599,7 +603,7 @@ NsVLength
 p239
 NsVKey
 p240
-VG
+VA
 p241
 sVYear
 p242
@@ -610,14 +614,14 @@ Nsg144
 Nsg28
 I00
 sg29
-S'AllThatHeavenWillAllow.txt'
+S'ChasingCars.txt'
 p244
 sg7
 Nsg146
 Nsg31
 I0
 sg32
-S'All That Heaven Will Allow\n'
+S'Chasing Cars\n'
 p245
 sbag1
 (g13
@@ -631,85 +635,85 @@ sg18
 (dp249
 VArtist
 p250
-VSnow Patrol
+VThe Killers
 p251
 sVTempo
 p252
-NsVLength
+V120
 p253
-NsVKey
+sVLength
 p254
-VA
+NsVKey
 p255
-sVYear
+VF#
 p256
-NsVGenre
+sVYear
 p257
+NsVGenre
+p258
+Nssg28
+I00
+sg29
+S'AllTheseThingsIveDone.txt'
+p259
+sg31
+I0
+sg32
+S"All these things I've done\n"
+p260
+sbasbag1
+(g2
+g3
+Ntp261
+Rp262
+(dp263
+g7
+Nsg9
+S'Two'
+p264
+sg11
+(lp265
+g1
+(g13
+g3
+Ntp266
+Rp267
+(dp268
+g17
+I1
+sg18
+(dp269
+VArtist
+p270
+VSublime
+p271
+sVTempo
+p272
+NsVLength
+p273
+NsVKey
+p274
+VD
+p275
+sVYear
+p276
+NsVGenre
+p277
 Nssg143
 Nsg144
 Nsg28
 I00
 sg29
-S'ChasingCars.txt'
-p258
+S'WhatIGot.txt'
+p278
 sg7
 Nsg146
 Nsg31
 I0
 sg32
-S'Chasing Cars\n'
-p259
+S'What I got\n'
+p279
 sbag1
-(g13
-g3
-Ntp260
-Rp261
-(dp262
-g17
-I1
-sg18
-(dp263
-VArtist
-p264
-VThe Killers
-p265
-sVTempo
-p266
-V120
-p267
-sVLength
-p268
-NsVKey
-p269
-VF#
-p270
-sVYear
-p271
-NsVGenre
-p272
-Nssg28
-I00
-sg29
-S'AllTheseThingsIveDone.txt'
-p273
-sg31
-I0
-sg32
-S"All these things I've done\n"
-p274
-sbasbag1
-(g2
-g3
-Ntp275
-Rp276
-(dp277
-g7
-Nsg9
-S'Two'
-p278
-sg11
-(lp279
-g1
 (g13
 g3
 Ntp280
@@ -721,7 +725,7 @@ sg18
 (dp283
 VArtist
 p284
-VSublime
+VSantana
 p285
 sVTempo
 p286
@@ -729,25 +733,21 @@ NsVLength
 p287
 NsVKey
 p288
-VD
+VDm
 p289
 sVYear
 p290
 NsVGenre
 p291
-Nssg143
-Nsg144
-Nsg28
-I01
+Nssg28
+I00
 sg29
-S'WhatIGot.txt'
+S'BlackMagicWoman.txt'
 p292
-sg7
-Nsg146
-Nsg31
-I0
+sg31
+I1
 sg32
-S'What I got\n'
+S'Black Magic Woman\n'
 p293
 sbag1
 (g13
@@ -761,7 +761,7 @@ sg18
 (dp297
 VArtist
 p298
-VSantana
+VGerry Rafferty
 p299
 sVTempo
 p300
@@ -769,21 +769,25 @@ NsVLength
 p301
 NsVKey
 p302
-VDm
+VD
 p303
 sVYear
 p304
 NsVGenre
 p305
-Nssg28
-I01
+Nssg143
+Nsg144
+Nsg28
+I00
 sg29
-S'BlackMagicWoman.txt'
+S'StuckInTheMiddle.txt'
 p306
-sg31
+sg7
+Nsg146
+Nsg31
 I0
 sg32
-S'Black Magic Woman\n'
+S'Stuck in the middle with you\n'
 p307
 sbag1
 (g13
@@ -797,7 +801,7 @@ sg18
 (dp311
 VArtist
 p312
-VGerry Rafferty
+VDavid Bowie
 p313
 sVTempo
 p314
@@ -811,19 +815,15 @@ sVYear
 p318
 NsVGenre
 p319
-Nssg143
-Nsg144
-Nsg28
+Nssg28
 I00
 sg29
-S'StuckInTheMiddle.txt'
+S'LetsDance.txt'
 p320
-sg7
-Nsg146
-Nsg31
+sg31
 I0
 sg32
-S'Stuck in the middle with you\n'
+S"Let's Dance\n"
 p321
 sbag1
 (g13
@@ -837,7 +837,7 @@ sg18
 (dp325
 VArtist
 p326
-VDavid Bowie
+VQueen
 p327
 sVTempo
 p328
@@ -852,14 +852,14 @@ p332
 NsVGenre
 p333
 Nssg28
-I00
+I01
 sg29
-S'LetsDance.txt'
+S'CrazyLittleThing.txt'
 p334
 sg31
 I0
 sg32
-S"Let's Dance\n"
+S'Crazy Little Thing Called Love\n'
 p335
 sbag1
 (g13
@@ -873,49 +873,53 @@ sg18
 (dp339
 VArtist
 p340
-VQueen
+VPeter Gabriel
 p341
 sVTempo
 p342
-NsVLength
+V100
 p343
-NsVKey
+sVLength
 p344
-VD
+NsVKey
 p345
-sVYear
+VD
 p346
-NsVGenre
+sVYear
 p347
-Nssg28
-I01
-sg29
-S'CrazyLittleThing.txt'
+NsVGenre
 p348
-sg31
+Nssg143
+Nsg144
+Nsg28
+I00
+sg29
+S'Sledgehammer.txt'
+p349
+sg7
+Nsg146
+Nsg31
 I0
 sg32
-S'Crazy Little Thing Called Love\n'
-p349
+S'Sledgehammer\n'
+p350
 sbag1
 (g13
 g3
-Ntp350
-Rp351
-(dp352
+Ntp351
+Rp352
+(dp353
 g17
 I1
 sg18
-(dp353
+(dp354
 VArtist
-p354
-VPeter Gabriel
 p355
-sVTempo
+VLed Zeppelin
 p356
-V100
+sVTempo
 p357
-sVLength
+NsVLength
 p358
 NsVKey
 p359
@@ -925,19 +929,15 @@ sVYear
 p361
 NsVGenre
 p362
-Nssg143
-Nsg144
-Nsg28
+Nssg28
 I00
 sg29
-S'Sledgehammer.txt'
+S'DancingDays.txt'
 p363
-sg7
-Nsg146
-Nsg31
+sg31
 I0
 sg32
-S'Sledgehammer\n'
+S'Dancing Days\n'
 p364
 sbag1
 (g13
@@ -951,7 +951,7 @@ sg18
 (dp368
 VArtist
 p369
-VLed Zeppelin
+VU2
 p370
 sVTempo
 p371
@@ -959,7 +959,7 @@ NsVLength
 p372
 NsVKey
 p373
-VD
+VG
 p374
 sVYear
 p375
@@ -968,12 +968,12 @@ p376
 Nssg28
 I00
 sg29
-S'DancingDays.txt'
+S'Pride.txt'
 p377
 sg31
 I0
 sg32
-S'Dancing Days\n'
+S'Pride\n'
 p378
 sbag1
 (g13
@@ -987,7 +987,7 @@ sg18
 (dp382
 VArtist
 p383
-VU2
+VACDC
 p384
 sVTempo
 p385
@@ -995,21 +995,21 @@ NsVLength
 p386
 NsVKey
 p387
-VG
+VE
 p388
 sVYear
 p389
 NsVGenre
 p390
 Nssg28
-I00
+I01
 sg29
-S'Pride.txt'
+S'TNT.txt'
 p391
 sg31
-I0
+I1
 sg32
-S'Pride\n'
+S'T.N.T.\n'
 p392
 sbag1
 (g13
@@ -1040,12 +1040,12 @@ p404
 Nssg28
 I01
 sg29
-S'TNT.txt'
+S'DirtyDeeds.txt'
 p405
 sg31
-I0
+I1
 sg32
-S'T.N.T.\n'
+S'Dirty Deeds\n'
 p406
 sbag1
 (g13
@@ -1059,7 +1059,7 @@ sg18
 (dp410
 VArtist
 p411
-VACDC
+VAC/DC
 p412
 sVTempo
 p413
@@ -1074,14 +1074,14 @@ p417
 NsVGenre
 p418
 Nssg28
-I01
+I00
 sg29
-S'DirtyDeeds.txt'
+S'BigBalls.txt'
 p419
 sg31
-I0
+I1
 sg32
-S'Dirty Deeds\n'
+S'Big Balls\n'
 p420
 sbag1
 (g13
@@ -1095,7 +1095,7 @@ sg18
 (dp424
 VArtist
 p425
-VAC/DC
+VU2
 p426
 sVTempo
 p427
@@ -1112,12 +1112,12 @@ p432
 Nssg28
 I00
 sg29
-S'BigBalls.txt'
+S'Bad.txt'
 p433
 sg31
-I0
+I1
 sg32
-S'Big Balls\n'
+S'Bad\n'
 p434
 sbag1
 (g13
@@ -1131,7 +1131,7 @@ sg18
 (dp438
 VArtist
 p439
-VU2
+VThe Beatles
 p440
 sVTempo
 p441
@@ -1145,15 +1145,19 @@ sVYear
 p445
 NsVGenre
 p446
-Nssg28
-I00
+Nssg143
+Nsg144
+Nsg28
+I01
 sg29
-S'Bad.txt'
+S'DontLetMeDown.txt'
 p447
-sg31
+sg7
+Nsg146
+Nsg31
 I0
 sg32
-S'Bad\n'
+S"Don't Let Me Down\n"
 p448
 sbag1
 (g13
@@ -1175,25 +1179,21 @@ NsVLength
 p456
 NsVKey
 p457
-VE
+VG
 p458
 sVYear
 p459
 NsVGenre
 p460
-Nssg143
-Nsg144
-Nsg28
-I01
+Nssg28
+I00
 sg29
-S'DontLetMeDown.txt'
+S'ADayInTheLife.txt'
 p461
-sg7
-Nsg146
-Nsg31
-I0
+sg31
+I1
 sg32
-S"Don't Let Me Down\n"
+S'A Day in the Life\n'
 p462
 sbag1
 (g13
@@ -1207,7 +1207,7 @@ sg18
 (dp466
 VArtist
 p467
-VThe Beatles
+VThe Church
 p468
 sVTempo
 p469
@@ -1215,7 +1215,7 @@ NsVLength
 p470
 NsVKey
 p471
-VG
+VAm
 p472
 sVYear
 p473
@@ -1224,12 +1224,12 @@ p474
 Nssg28
 I00
 sg29
-S'ADayInTheLife.txt'
+S'UnderTheMilkyWay.txt'
 p475
 sg31
 I0
 sg32
-S'A Day in the Life\n'
+S'Under the Milky Way\n'
 p476
 sbag1
 (g13
@@ -1243,7 +1243,7 @@ sg18
 (dp480
 VArtist
 p481
-VThe Church
+VTalking Heads
 p482
 sVTempo
 p483
@@ -1260,12 +1260,12 @@ p488
 Nssg28
 I00
 sg29
-S'UnderTheMilkyWay.txt'
+S'PsychoKiller.txt'
 p489
 sg31
-I0
+I1
 sg32
-S'Under the Milky Way\n'
+S'Psycho Killer\n'
 p490
 sbag1
 (g13
@@ -1279,7 +1279,7 @@ sg18
 (dp494
 VArtist
 p495
-VTalking Heads
+VSTP
 p496
 sVTempo
 p497
@@ -1287,7 +1287,7 @@ NsVLength
 p498
 NsVKey
 p499
-VAm
+VG
 p500
 sVYear
 p501
@@ -1296,12 +1296,12 @@ p502
 Nssg28
 I00
 sg29
-S'PsychoKiller.txt'
+S'Plush.txt'
 p503
 sg31
-I0
+I1
 sg32
-S'Psycho Killer\n'
+S'Plush\n'
 p504
 sbag1
 (g13
@@ -1315,75 +1315,79 @@ sg18
 (dp508
 VArtist
 p509
-VSTP
-p510
-sVTempo
-p511
-NsVLength
-p512
-NsVKey
-p513
-VG
-p514
-sVYear
-p515
-NsVGenre
-p516
-Nssg28
-I00
-sg29
-S'Plush.txt'
-p517
-sg31
-I0
-sg32
-S'Plush\n'
-p518
-sbag1
-(g13
-g3
-Ntp519
-Rp520
-(dp521
-g17
-I1
-sg18
-(dp522
-VArtist
-p523
 NsVTempo
-p524
+p510
 NsVLength
-p525
+p511
 NsVKey
-p526
+p512
 NsVYear
-p527
+p513
 NsVGenre
-p528
+p514
 Nssg28
 I00
 sg29
 S'WhatsSoFunny.txt'
-p529
+p515
 sg31
 I0
 sg32
 S"Whats so funny 'bout peace, love, and understanding\n"
-p530
+p516
 sbasbag1
 (g2
 g3
-Ntp531
-Rp532
-(dp533
+Ntp517
+Rp518
+(dp519
 g7
 Nsg9
 S'Three'
-p534
+p520
 sg11
-(lp535
+(lp521
 g1
+(g13
+g3
+Ntp522
+Rp523
+(dp524
+g17
+I1
+sg18
+(dp525
+VArtist
+p526
+VThe Beatles
+p527
+sVTempo
+p528
+NsVLength
+p529
+NsVKey
+p530
+VA
+p531
+sVYear
+p532
+NsVGenre
+p533
+Nssg143
+Nsg144
+Nsg28
+I01
+sg29
+S'LucyInTheSky.txt'
+p534
+sg7
+Nsg146
+Nsg31
+I0
+sg32
+S'Lucy in the sky with diamonds\n'
+p535
+sbag1
 (g13
 g3
 Ntp536
@@ -1409,19 +1413,15 @@ sVYear
 p546
 NsVGenre
 p547
-Nssg143
-Nsg144
-Nsg28
+Nssg28
 I01
 sg29
-S'LucyInTheSky.txt'
+S'BackInTheUSSR.txt'
 p548
-sg7
-Nsg146
-Nsg31
+sg31
 I0
 sg32
-S'Lucy in the sky with diamonds\n'
+S'Back In The USSR\n'
 p549
 sbag1
 (g13
@@ -1435,7 +1435,7 @@ sg18
 (dp553
 VArtist
 p554
-VThe Beatles
+VBadfinger
 p555
 sVTempo
 p556
@@ -1450,14 +1450,14 @@ p560
 NsVGenre
 p561
 Nssg28
-I01
+I00
 sg29
-S'BackInTheUSSR.txt'
+S'NoMatterWhat.txt'
 p562
 sg31
 I0
 sg32
-S'Back In The USSR\n'
+S'No Matter What\n'
 p563
 sbag1
 (g13
@@ -1471,7 +1471,7 @@ sg18
 (dp567
 VArtist
 p568
-VBadfinger
+VGreen Day
 p569
 sVTempo
 p570
@@ -1486,14 +1486,14 @@ p574
 NsVGenre
 p575
 Nssg28
-I00
+I01
 sg29
-S'NoMatterWhat.txt'
+S'Warning.txt'
 p576
 sg31
 I0
 sg32
-S'No Matter What\n'
+S'Warning\n'
 p577
 sbag1
 (g13
@@ -1507,61 +1507,61 @@ sg18
 (dp581
 VArtist
 p582
-VGreen Day
+NsVTempo
 p583
-sVTempo
-p584
 NsVLength
-p585
+p584
 NsVKey
+p585
+NsVYear
 p586
-VA
-p587
-sVYear
-p588
 NsVGenre
-p589
+p587
 Nssg28
-I00
+I01
 sg29
-S'Warning.txt'
-p590
+S'Funk49.txt'
+p588
 sg31
-I0
+I1
 sg32
-S'Warning\n'
-p591
+S'Funk 49\n'
+p589
 sbag1
 (g13
 g3
-Ntp592
-Rp593
-(dp594
+Ntp590
+Rp591
+(dp592
 g17
 I1
 sg18
-(dp595
+(dp593
 VArtist
+p594
+VCCR
+p595
+sVTempo
 p596
-NsVTempo
-p597
 NsVLength
-p598
+p597
 NsVKey
+p598
+VA
 p599
-NsVYear
+sVYear
 p600
 NsVGenre
 p601
 Nssg28
 I00
 sg29
-S'Funk49.txt'
+S'Lodi.txt'
 p602
 sg31
 I0
 sg32
-S'Funk 49\n'
+S'Lodi\n'
 p603
 sbag1
 (g13
@@ -1575,7 +1575,7 @@ sg18
 (dp607
 VArtist
 p608
-VCCR
+VCars
 p609
 sVTempo
 p610
@@ -1592,12 +1592,12 @@ p615
 Nssg28
 I00
 sg29
-S'Lodi.txt'
+S'Drive-Cars.txt'
 p616
 sg31
 I0
 sg32
-S'Lodi\n'
+S'Drive\n'
 p617
 sbag1
 (g13
@@ -1611,7 +1611,7 @@ sg18
 (dp621
 VArtist
 p622
-VCars
+VSublime
 p623
 sVTempo
 p624
@@ -1625,15 +1625,19 @@ sVYear
 p628
 NsVGenre
 p629
-Nssg28
+Nssg143
+Nsg144
+Nsg28
 I00
 sg29
-S'Drive-Cars.txt'
+S'BadFish.txt'
 p630
-sg31
+sg7
+Nsg146
+Nsg31
 I0
 sg32
-S'Drive\n'
+S'Badfish\n'
 p631
 sbag1
 (g13
@@ -1647,7 +1651,7 @@ sg18
 (dp635
 VArtist
 p636
-VSublime
+VAlice In Chains
 p637
 sVTempo
 p638
@@ -1661,19 +1665,15 @@ sVYear
 p642
 NsVGenre
 p643
-Nssg143
-Nsg144
-Nsg28
+Nssg28
 I00
 sg29
-S'BadFish.txt'
+S'NoExcuses.txt'
 p644
-sg7
-Nsg146
-Nsg31
-I0
+sg31
+I1
 sg32
-S'Badfish\n'
+S'No Excuses\n'
 p645
 sbag1
 (g13
@@ -1687,7 +1687,7 @@ sg18
 (dp649
 VArtist
 p650
-VAlice In Chains
+VTalking Heads
 p651
 sVTempo
 p652
@@ -1695,7 +1695,7 @@ NsVLength
 p653
 NsVKey
 p654
-VA
+VE
 p655
 sVYear
 p656
@@ -1704,12 +1704,12 @@ p657
 Nssg28
 I00
 sg29
-S'NoExcuses.txt'
+S'AndSheWas.txt'
 p658
 sg31
 I0
 sg32
-S'No Excuses\n'
+S'And She Was\n'
 p659
 sbag1
 (g13
@@ -1723,7 +1723,7 @@ sg18
 (dp663
 VArtist
 p664
-VTalking Heads
+VStevie Wonder
 p665
 sVTempo
 p666
@@ -1731,55 +1731,55 @@ NsVLength
 p667
 NsVKey
 p668
-VE
+NsVYear
 p669
-sVYear
-p670
 NsVGenre
-p671
+p670
 Nssg28
-I00
+I01
 sg29
-S'AndSheWas.txt'
-p672
+S'Superstitious.txt'
+p671
 sg31
 I0
 sg32
-S'And She Was\n'
-p673
+S'Superstition\n'
+p672
 sbag1
 (g13
 g3
-Ntp674
-Rp675
-(dp676
+Ntp673
+Rp674
+(dp675
 g17
 I1
 sg18
-(dp677
+(dp676
 VArtist
+p677
+VU2
 p678
-VStevie Wonder
-p679
 sVTempo
-p680
+p679
 NsVLength
-p681
+p680
 NsVKey
+p681
+VE
 p682
-NsVYear
+sVYear
 p683
 NsVGenre
 p684
 Nssg28
 I01
 sg29
-S'Superstitious.txt'
+S'TheFly.txt'
 p685
 sg31
-I0
+I1
 sg32
-S'Superstition\n'
+S'The Fly\n'
 p686
 sbag1
 (g13
@@ -1793,7 +1793,7 @@ sg18
 (dp690
 VArtist
 p691
-VU2
+VHall & Oates
 p692
 sVTempo
 p693
@@ -1801,7 +1801,7 @@ NsVLength
 p694
 NsVKey
 p695
-VE
+VEm
 p696
 sVYear
 p697
@@ -1810,12 +1810,12 @@ p698
 Nssg28
 I01
 sg29
-S'TheFly.txt'
+S'ICantGoForThat.txt'
 p699
 sg31
-I0
+I1
 sg32
-S'The Fly\n'
+S"I can't go for That\n"
 p700
 sbag1
 (g13
@@ -2111,15 +2111,15 @@ NsVYear
 p812
 NsVGenre
 p813
-Nssg32
-S'Rio\n'
-p814
-sg31
-I0
-sg28
+Nssg28
 I00
 sg29
 S'Rio.txt'
+p814
+sg31
+I0
+sg32
+S'Rio\n'
 p815
 sbag1
 (g13
@@ -2179,15 +2179,15 @@ NsVYear
 p838
 NsVGenre
 p839
-Nssg32
-S'Bring On The Night\n'
-p840
-sg31
-I0
-sg28
+Nssg28
 I00
 sg29
 S'BringOnTheNight.txt'
+p840
+sg31
+I0
+sg32
+S'Bring On The Night\n'
 p841
 sbag1
 (g13
@@ -2199,17 +2199,17 @@ g17
 I1
 sg18
 (dp845
-S'Artist'
+VArtist
 p846
-NsS'Tempo'
+NsVTempo
 p847
-NsS'Length'
+NsVLength
 p848
-NsS'Key'
+NsVKey
 p849
-NsS'Year'
+NsVYear
 p850
-NsS'Genre'
+NsVGenre
 p851
 Nssg28
 I00
@@ -2231,20 +2231,26 @@ g17
 I1
 sg18
 (dp857
-g846
-Nsg847
-Nsg848
-Nsg849
-Nsg850
-Nsg851
+VArtist
+p858
+NsVTempo
+p859
+NsVLength
+p860
+NsVKey
+p861
+NsVYear
+p862
+NsVGenre
+p863
 Nssg28
 I00
 sg29
 S'IWish.txt'
-p858
+p864
 sg31
 I0
 sg32
 S'I Wish\n'
-p859
+p865
 sbasba.

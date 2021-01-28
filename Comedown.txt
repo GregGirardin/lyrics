@@ -18,5 +18,5 @@ What do you say do you do when it all comes down
 !Chorus
 !Solo
     Shoot up... you're high
-v1
+!v1
 !Chorus

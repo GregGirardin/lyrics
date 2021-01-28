@@ -2,124 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fdc742ad-9553-4b4e-b5b6-04b63c20100a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Christmas/Xmas.set" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DaisyJane.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LadyMadonna.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RockyMountainWay.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoloAcoustic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Song-2.0.pytab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StateOfTheNation.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TheUnforgettableFire.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YourEyesOpen.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ARushAndAPush.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ARushAndAPush.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlwaysOnMyMind.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlwaysOnMyMind.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AmericanBand.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AmericanBand.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AmericanGirl.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AmericanGirl.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amie.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Amie.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndSheWas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AndSheWas.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BabyDontGetHooked.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BabyDontGetHooked.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BridgeOfSighs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BridgeOfSighs.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADayInTheLife.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ADayInTheLife.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AcrossTheUniverse.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AcrossTheUniverse.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BadCaseOfLoveYou.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BadCaseOfLoveYou.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BilleJean.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BilleJean.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlackHoleSun.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BlackHoleSun.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BornToBeWild.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BornToBeWild.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BrokenWings.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BrokenWings.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CheapSunglasses.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CheapSunglasses.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CliffsOfDover.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CliffsOfDover.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BungleInTheJungle.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaliforniaDreamin.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CaliforniaDreamin.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CherryBomb.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CherryBomb.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ClosingTime.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ClosingTime.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ColorMyWorld.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ColorMyWorld.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Colorblind.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Colorblind.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Crackerman.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Crackerman.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Crazy-CeeLo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Crazy-CeeLo.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Crazy-Seal.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Crazy-Seal.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DontDreamItsOver.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DontDreamItsOver.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Comedown.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Comedown.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CryMeARiver.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CryMeARiver.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cumbersome.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Cumbersome.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DearMrFantasy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DearMrFantasy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DirtyDeeds.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DirtyDeeds.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DixilandDelight.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DixilandDelight.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DreamWeaver.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DreamWeaver.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Drive-Cars.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Drive-Cars.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EveryThingSheWants.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EveryThingSheWants.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EyeInTheSky.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EyeInTheSky.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ForTheSummer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ForTheSummer.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FriendOfTheDevil.txt" beforeDir="false" afterPath="$PROJECT_DIR$/FriendOfTheDevil.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EverybodyWantsSome.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EverybodyWantsSome.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EyesWithoutAFace.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EyesWithoutAFace.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GBI-Elec.html" beforeDir="false" afterPath="$PROJECT_DIR$/GBI-Elec.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HitMeWithYourBestShot.txt" beforeDir="false" afterPath="$PROJECT_DIR$/HitMeWithYourBestShot.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HowSoonIsNow.txt" beforeDir="false" afterPath="$PROJECT_DIR$/HowSoonIsNow.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IAlone.txt" beforeDir="false" afterPath="$PROJECT_DIR$/IAlone.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IWantYouToWantMe.txt" beforeDir="false" afterPath="$PROJECT_DIR$/IWantYouToWantMe.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IWillSurvive.txt" beforeDir="false" afterPath="$PROJECT_DIR$/IWillSurvive.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ImOnFire.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ImOnFire.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ImmigrantSong.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ImmigrantSong.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InsideOut.txt" beforeDir="false" afterPath="$PROJECT_DIR$/InsideOut.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JealousAgain.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JealousAgain.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jenny.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Jenny.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JumpJive.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JumpJive.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Knights.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Knights.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LaGrange.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LaGrange.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LandOfConfusion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LandOfConfusion.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LastDanceWithMaryJane.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LastDanceWithMaryJane.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeanOnMe.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LeanOnMe.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LessonsInLove.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LessonsInLove.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LetsGoCrazy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LetsGoCrazy.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LifeDuringWartime.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LifeDuringWartime.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LifeInTheFastLane.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LifeInTheFastLane.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lights.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lights.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LipsLikeSugar.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LipsLikeSugar.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lodi.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lodi.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LogicalSong.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LogicalSong.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LongGoneDay.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LongGoneDay.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LosingMyReligion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LosingMyReligion.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LostCause.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LostCause.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LoveIsAlive.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LoveIsAlive.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LoveMeTwoTimes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LoveMeTwoTimes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LoveSong.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LoveSong.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LoverYouShouldHave.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LoverYouShouldHave.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lowdown.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lowdown.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LuckyMan.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LuckyMan.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GBI-Elec.set" beforeDir="false" afterPath="$PROJECT_DIR$/GBI-Elec.set" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HotelCalifornia.txt" beforeDir="false" afterPath="$PROJECT_DIR$/HotelCalifornia.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICantGoForThat.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ICantGoForThat.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IWish.txt" beforeDir="false" afterPath="$PROJECT_DIR$/IWish.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LucyInTheSky.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LucyInTheSky.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Machinehead.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Machinehead.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MadWorld.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MadWorld.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ManInTheBox.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ManInTheBox.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ManOfConstantSorrow.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ManOfConstantSorrow.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MeltWithYou.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MeltWithYou.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MexicanMoon.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MexicanMoon.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mofo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Mofo.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MostBeautifulGirl.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MostBeautifulGirl.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySharona.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MySharona.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MysteriousWays.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MysteriousWays.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NeedToKnow.txt" beforeDir="false" afterPath="$PROJECT_DIR$/NeedToKnow.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NeverLetMeDown.txt" beforeDir="false" afterPath="$PROJECT_DIR$/NeverLetMeDown.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NeverTearUsApart.txt" beforeDir="false" afterPath="$PROJECT_DIR$/NeverTearUsApart.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NightMoves.txt" beforeDir="false" afterPath="$PROJECT_DIR$/NightMoves.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NoExcuses.txt" beforeDir="false" afterPath="$PROJECT_DIR$/NoExcuses.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MethodOf.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MethodOf.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NoMatterWhat.txt" beforeDir="false" afterPath="$PROJECT_DIR$/NoMatterWhat.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OldMan.txt" beforeDir="false" afterPath="$PROJECT_DIR$/OldMan.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/One.txt" beforeDir="false" afterPath="$PROJECT_DIR$/One.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OneNightInBangkok.txt" beforeDir="false" afterPath="$PROJECT_DIR$/OneNightInBangkok.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OneOfUs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/OneOfUs.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OneThingLeads.txt" beforeDir="false" afterPath="$PROJECT_DIR$/OneThingLeads.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OneTreeHill.txt" beforeDir="false" afterPath="$PROJECT_DIR$/OneTreeHill.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Overkill.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Overkill.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Paralyzer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Paralyzer.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Patience.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Patience.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PinkHouses.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PinkHouses.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlayThatFunky.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PlayThatFunky.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Plush.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Plush.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pride.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Pride.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PumpedUpKicks.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PumpedUpKicks.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RainKing.txt" beforeDir="false" afterPath="$PROJECT_DIR$/RainKing.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RebelRebel.txt" beforeDir="false" afterPath="$PROJECT_DIR$/RebelRebel.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PsychoKiller.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PsychoKiller.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Rio.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Rio.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Runaround.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Runaround.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RunningToStandStill.txt" beforeDir="false" afterPath="$PROJECT_DIR$/RunningToStandStill.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SameOldSongAndDance.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SameOldSongAndDance.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SayGoodbyeToHollywood.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SayGoodbyeToHollywood.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScarboroughFair.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ScarboroughFair.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShakedownStreet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ShakedownStreet.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shanty.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Shanty.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharpDressedMan.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SharpDressedMan.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SheBlindedMe.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SheBlindedMe.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShowBiz.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ShowBiz.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SmoothOperator.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SmoothOperator.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SomeKindOfWonderful.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SomeKindOfWonderful.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SomethingAboutYou.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SomethingAboutYou.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SouthernCross.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SouthernCross.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spooky.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Spooky.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StuckInTheMiddle.txt" beforeDir="false" afterPath="$PROJECT_DIR$/StuckInTheMiddle.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StupidGirl.txt" beforeDir="false" afterPath="$PROJECT_DIR$/StupidGirl.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SummerOf69.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SummerOf69.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Surrender.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Surrender.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SweetChildOMine.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SweetChildOMine.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SympathyForTheDevil.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SympathyForTheDevil.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TNT.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TNT.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TakeAPicture.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TakeAPicture.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TequilaSunrise.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TequilaSunrise.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TheKillingMoon.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TheKillingMoon.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trouble.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Trouble.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnderTheMilkyWay.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UnderTheMilkyWay.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lyricMetadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/lyricMetadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/notes.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -239,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609361708584</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="More lyrics">
+      <created>1609369315198</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1609369315198</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -286,29 +223,31 @@
     <option name="LAST_COMMIT_MESSAGE" value="More lyrics" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1434" y="310" key="CommitChangelistDialog2" timestamp="1609369303034">
+    <state x="1434" y="310" key="CommitChangelistDialog2" timestamp="1609369314892">
       <screen x="82" y="25" width="3358" height="1415" />
     </state>
     <state x="1431" y="308" key="CommitChangelistDialog2/77.23.3363.1417@77.23.3363.1417" timestamp="1608400944550" />
-    <state x="1434" y="310" key="CommitChangelistDialog2/82.25.3358.1415@82.25.3358.1415" timestamp="1609369303034" />
+    <state x="1434" y="310" key="CommitChangelistDialog2/82.25.3358.1415@82.25.3358.1415" timestamp="1609369314892" />
     <state x="813" y="319" key="SettingsEditor" timestamp="1604538292406">
       <screen x="77" y="23" width="3363" height="1417" />
     </state>
     <state x="813" y="319" key="SettingsEditor/77.23.3363.1417@77.23.3363.1417" timestamp="1604538292406" />
-    <state x="1048" y="472" key="Vcs.Push.Dialog.v2" timestamp="1609361709936">
-      <screen x="82" y="25" width="3358" height="1415" />
+    <state x="414" y="284" key="Vcs.Push.Dialog.v2" timestamp="1611858718636">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="414" y="284" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1611858718636" />
     <state x="1044" y="471" key="Vcs.Push.Dialog.v2/77.23.3363.1417@77.23.3363.1417" timestamp="1608400958049" />
-    <state x="1048" y="472" key="Vcs.Push.Dialog.v2/82.25.3358.1415@82.25.3358.1415" timestamp="1609361709936" />
+    <state x="1048" y="472" key="Vcs.Push.Dialog.v2/82.25.3358.1415@82.25.3358.1415" timestamp="1609369316327" />
     <state x="935" y="456" width="816" height="550" key="find.popup" timestamp="1609361505745">
       <screen x="82" y="25" width="3358" height="1415" />
     </state>
     <state x="931" y="455" width="667" height="486" key="find.popup/77.23.3363.1417@77.23.3363.1417" timestamp="1607997176343" />
     <state x="935" y="456" width="816" height="550" key="find.popup/82.25.3358.1415@82.25.3358.1415" timestamp="1609361505745" />
-    <state x="1112" y="411" width="670" height="676" key="search.everywhere.popup" timestamp="1609364732052">
-      <screen x="82" y="25" width="3358" height="1415" />
+    <state x="1055" y="387" width="687" height="635" key="search.everywhere.popup" timestamp="1611764573953">
+      <screen x="0" y="25" width="3440" height="1328" />
     </state>
+    <state x="1055" y="387" width="687" height="635" key="search.everywhere.popup/0.25.3440.1328@0.25.3440.1328" timestamp="1611764573953" />
     <state x="1109" y="410" width="670" height="676" key="search.everywhere.popup/77.23.3363.1417@77.23.3363.1417" timestamp="1608400702785" />
-    <state x="1112" y="411" width="670" height="676" key="search.everywhere.popup/82.25.3358.1415@82.25.3358.1415" timestamp="1609364732052" />
+    <state x="1112" y="411" width="670" height="676" key="search.everywhere.popup/82.25.3358.1415@82.25.3358.1415" timestamp="1609698918957" />
   </component>
 </project>

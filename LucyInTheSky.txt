@@ -1,13 +1,17 @@
-Lucy in the sky with diamonds
+Lucy in the sky with Diamonds
 
-E|---0-0---0------
-B|-----------3p2--
-G|--2-0-2-2-----2-
-D|-2-----4--3-----
+A A7 A6 Aaug5sus4 Aaug5
 
-V: - FM7 Dm7
-P: Bb C F Bb  C G D
-C: (G C D) A
+E|---0-0---0------:|
+B|-----------3p2--:|
+G|--2-0-2-2-----2-:|
+D|-2-----4--3-----:|
+
+E|----12---12------12--10-9---:|-8--|-9--10-
+B|--10-------10--10--------10-:|-10-|-10-10-
+G|-9-----12----11----10-------:|-10-|-11-10-
+
+V: Riff FM7 Dm7   P: Bb C F Bb  C G D   C: (G C D) A
 
 Picture yourself in a boat on a river with tangerine trees and marmalade skies
 Somebody calls you you answer quite slowly a girl with kaleidoscope eyes
@@ -21,7 +25,7 @@ Everyone smiles as you drift past the flowers that grow so incredibly high
 Newspaper taxis appear on the shore waiting to take you away
 Climb in the back with your head in the clouds and you're gone
 
-!Chorus
+!Chorus≠
 
 Picture yourself on a train in a station with plasticine porters with looking glass ties
 Suddenly someone is there at the turnstile the girl with the kaleidoscope eyes

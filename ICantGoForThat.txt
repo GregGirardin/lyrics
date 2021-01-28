@@ -1,10 +1,6 @@
 I Can't Go For That
 
-D|-------1---1-3-|
-A|-----3---3-----|
-E|-1-1-----------|
-
-I: Fm7   V: (Cm7 F - Cm7 Ab Bb)   P: C CM7 C7 FM7   V: Cm7 F
+I: Em7   V: (Bm7 E - Bm7 G A)   C: B BM7 B7 E - Em7
 
 Easy, ready, willing, overtime
 Where does it stop where do you dare me to draw the line
@@ -20,4 +16,4 @@ I can't go for just repeating the same old lives
 Use the body now you want my soul
 Do forget about it say no go.
 
-!Chorus
+!Chorus / Solo / Chorus

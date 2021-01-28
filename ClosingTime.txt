@@ -1,7 +1,6 @@
 Closing Time
 
-V: G D Am C
-B: Bb G
+V: G D Am C   B: Bb G
 
 Closing time...
   Open all the doors and let you out into the world
@@ -17,7 +16,9 @@ Closing time...
   So gather up your jackets move it to the exits I hope you have found a friend
   Every new beginning comes from some other beginning's end..
 
-!Chorus Solo
+!Chorus
+
+!Solo
 
   Closing time
   Time for you to go out to the places you will be from

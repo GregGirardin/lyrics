@@ -1,13 +1,11 @@
 Colorblind
 
 V:  Dm /C /B /Bb
-PC: (Gm Bb Dm) /C (Gm Am Dm)
+P: (Gm Bb Dm) /C (Gm Am Dm)
 C:  Dm F Dm/B /C
 
-On a beach twenty yards from the roadside
-back again 6 AM far from sleep
-must be 290 blue on the water
-it's gray to me 3 CV is all I see
+On a beach twenty yards from the roadside back again 6 AM far from sleep
+must be 290 blue on the water it's gray to me 3 CV is all I see
 
   Green can only hold you in the garden
   Too much red will go right to your head
@@ -24,8 +22,9 @@ It's all white lines to me but things are getting clearer
 i can almost read the writing in the mirror
 
 !Chorus
-!PC
 
-    I'm colorblind freeway tragedy Pantone memory x-ray eyes
+  Green can only...
+
+    I'm colorblind freeway tragedy pantone memory x-ray eyes
     Where'd all the color go on my radio?
     You almost have to be a satellite to see.
