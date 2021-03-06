@@ -1,6 +1,6 @@
 Rio
 
-I: C#m A F# A   V: Em C Am7 C - Em C A C   C: E B D A
+V: Em C Am7 C - Em C A C    C: E B D A    S: C#m A F# A
 
 Moving on the floor now babe you're a bird of paradise
 Cherry ice cream smile I suppose it's very nice
@@ -18,7 +18,6 @@ Like a birthday or a pretty view
 But then I'm sure that you know it's just for you
 
 !Chorus
-
 !Intro
 
 Hey now woo, look at that, did she nearly run you down
@@ -27,6 +26,7 @@ I'll take my chance cause luck is on my side or something
 I know what you're thinking I tell you something, I know what you're thinking
 
 !Chorus
+!Solo
 
   Her name is Rio, she don't need to understand
   And I might find her if I'm looking like I can
