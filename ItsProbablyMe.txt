@@ -1,7 +1,6 @@
 It's Probably Me
 
-V: (Em9 EmM7) Am Bm Em
-    Am Bm Em C#dim CM B7 Em
+V: (Em9 EmM7) Am Bm Em - Am Bm Em C#dim CM B7 Em
 B: Am D G - Em D/f# G Bm - Am D G
 
 If the night turned cold and the stars looked down

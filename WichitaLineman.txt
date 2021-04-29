@@ -10,10 +10,7 @@ A|-3---------------|-3-----------3-|--------------|
 E|-----------------|---------------|--------------|
 
 I: Bb C2
-V: BbM7 FM7/A Gm
-   Dm7 Am7 G D
-   C9 G/B Gm/Bb
-   D A4/A BbM7 C2
+V: BbM7 FM7/A Gm - Dm7 Am7 G D - C9 G/B Gm/Bb - D A4/A BbM7 C2
 
 I am a lineman for the county and I drive the main road
 Searching in the sun for another overload
