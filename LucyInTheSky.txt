@@ -1,17 +1,11 @@
 Lucy in the sky with Diamonds
 
-A A7 A6 Aaug5sus4 Aaug5
-
-E|---0-0---0------:|
-B|-----------3p2--:|
-G|--2-0-2-2-----2-:|
+E|---0-0---0------:|  E|----12---12------12--10-9---:|-8--|-9--10-
+B|-----------3p2--:|  B|--10-------10--10--------10-:|-10-|-10-10-
+G|--2-0-2-2-----2-:|  G|-9-----12----11----10-------:|-10-|-11-10-
 D|-2-----4--3-----:|
 
-E|----12---12------12--10-9---:|-8--|-9--10-
-B|--10-------10--10--------10-:|-10-|-10-10-
-G|-9-----12----11----10-------:|-10-|-11-10-
-
-V: Riff FM7 Dm7   P: Bb C F Bb  C G D   C: (G C D) A
+V: -- FM7 Dm7   P: Bb C F Bb  C G D   C: (G C D) A
 
 Picture yourself in a boat on a river with tangerine trees and marmalade skies
 Somebody calls you you answer quite slowly a girl with kaleidoscope eyes

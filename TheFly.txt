@@ -1,10 +1,6 @@
 The Fly
 
-V: Em A D Em
-C: (C#m E A) A E
-S: Bx4
- : Ex6 A D
- : Ex2 C#m A E B C#m E Ax2
+V: Em A D Em   C: (C#m E A) A E   S: Bx4 : Ex6 A D : Ex2 C#m A E B C#m E Ax2
 
 It's no secret that the stars are falling from the sky
 It's no secret that our world is in darkness tonight
@@ -25,16 +21,12 @@ It's no secret ambition bites the nails of success
 Every artist is a cannibal, every poet is a thief
 All kill their inspiration and sing about their grief
 
-  [ Love we shine like a burning star we're falling * from the sky tonight ]
-  A man will rise a man will fall from the sheer face of love like a fly from a wall
+  [ Love... ] A man will rise a man will fall from the sheer face of love like a fly from a wall
   It's no secret at all
 
 !Solo
 
-  [ Love we shine like a burning star we're falling from the sky tonight ]
-  [ Love we shine like a burning star we're falling * from the sky tonight ]
-  A man will rise a man will fall from the sheer face of love like a fly from a wall
-  It's no secret at all
+  [ Love.. ] A man will rise... It's no secret at all
 
 It's no secret that the stars are falling from the sky
 The universe exploded 'cause of one man's lie
