@@ -1,8 +1,7 @@
 Landslide
 
-// Bernadette, to E.
-V: D A/C# Bm A/C#
-C: A E/G# F#m - D A/C# Bm E/G#
+V : D A/C# Bm A/C# : A E/G# F#m - D A/C# Bm E/G#
+  : E B/D# C#m       B F# G#m
 
 I took my love and I took it down
 I climbed a mountain and I turned around
@@ -17,9 +16,9 @@ Can I handle the seasons of my life.. mmm...
   Well, I've been afraid of changing cause I built my life around you
   But time makes you bolder even children get older and I'm getting older too
  
-!Solo
+Solo
 
-!Chorus
+Chorus
 
 Ah, ah, take my love, take it down
 Ah, ah, climb a mountain and you turn around

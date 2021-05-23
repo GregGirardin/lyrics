@@ -16,7 +16,7 @@ The albatross and the whales they are my brothers
 It's kind of a special feeling when you're out on the sea alone
 Staring at the full moon like a lover
 
-!Chorus
+Chorus
 
     I've never been romantic and sometimes I don't care
     I know it may sound selfish but let me breathe the air
@@ -25,4 +25,4 @@ Staring at the full moon like a lover
 
 V3 = V1a + V2b
 
-!Chorus
+Chorus

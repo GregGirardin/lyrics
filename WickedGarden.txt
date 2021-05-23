@@ -26,6 +26,6 @@ Interlude
 
 !V1
 
-!Chorus
+Chorus
 
 Burn...
