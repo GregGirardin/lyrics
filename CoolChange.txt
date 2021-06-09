@@ -21,7 +21,7 @@ Chorus
     I've never been romantic and sometimes I don't care
     I know it may sound selfish but let me breathe the air
 
-!Harmonica D
+Harmonica D
 
 V3 = V1a + V2b
 

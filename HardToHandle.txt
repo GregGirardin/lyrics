@@ -1,5 +1,7 @@
 Hard To Handle
 
+B F# - D E A E B
+
 Baby, here I am I'm the man on the scene
 I can give you what you want but you gotta come home with me
 I have got some good old lovin' and I got some more in store
@@ -20,7 +22,7 @@ I'm advertising love for free So you can place your ad with me
 
   Yeah, hard to handle now, Oh baby
 
-!V1
+V1
 
   Boys – they run along a dime by the dozen...
 
