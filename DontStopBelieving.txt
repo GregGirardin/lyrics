@@ -1,12 +1,14 @@
 Don't stop believing
 
- | E          B         C#m      A
-A|------------2-----4-6-4----6-7-0---6-7----|
-E|-0------2-4----------------------------0--|
+ | E      B       C#m      A
+A|--------2---4-6-4----6-7-0---6-7---|
+E|-0--2-4--------------------------0-|
 
- | E          B          G#m   A
-A|------------2-----4-6--------0--|
-E|-0------2-4------------4---4----|
+ | E       B         G#m   A
+A|---------2----4-6--------0-|
+E|-0---2-4-----------4---4---|
+
+A E - A B
 
 Just a small town girl, living in a lonely world
 She took the midnight train going anywhere
@@ -16,11 +18,9 @@ He took the midnight train going anywhere
 A singer in a smoky room, a smell of wine and cheap perfume
 For a smile they can share the night, it goes on and on and on and on
 
-  A                 E
   Strangers waiting up and down the boulevard
   Their shadows searching in the night
   Streetlight, people, living just to find emotion
-  A                        B
   Hiding, somewhere in the night
 
 Working hard to get my fill, everybody wants a thrill
