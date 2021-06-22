@@ -1,7 +1,9 @@
 Your Love
 
-I: E C#m B
-O: C#m  A    B
+V: ( E C#m B )
+C: A C#m B - C#m A B
+B: G A
+O: C#m A B
 
 Josie's on a vacation far away come around and talk it over
 So many things that I wanna to say you know I like my girls a little bit older
@@ -14,18 +16,14 @@ No-one's around when I'm in trouble
 You know I'd do anything for you
 Stay the night, we'll keep it under cover
  
-  I just wanna use your love tonight
-  I don't wanna lose your love tonight
+ Chorus
  
-G A x4
- 
-    Try to stop my hands from shakin Somethin' in my mind's not makin' sense
+    Try to stop my hands from shakin somethin in my mind's not makin' sense
     It's been a while since we've been all alone I can't hide the way I'm feelin'
  
 As you leave me please would you close the door and don't forget what I told you
 Just 'cause you're right, that don't mean I'm wrong another shoulder to cry upon
  
-[Chorus]
+Chorus
  
-[Outro]
 Lose your love

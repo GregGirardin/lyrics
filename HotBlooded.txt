@@ -1,8 +1,8 @@
 Hot Blooded
 
-C: G (2 measures) - Gsus4 G C Csus4 - D 
-P: C-D-C-D F C  C-D-C-D E C - C-D-C-D  F C C-D-C-D F-D Bb-G
-V: G5  G5 F2 C
+C: G-4 G  C C4 - D 
+P: C-D [F C | E C | F C | F D Bb G ]
+V: G F C
 
   Well, I'm hot blooded, check it and see
   I got a fever of a hundred and three

@@ -1,6 +1,6 @@
 Two Tickets To Paradise
  
-G A
+V: G A
 C: D G A
 
 Got a suprise, especially for you.
@@ -16,10 +16,9 @@ Waited so long..
   I've got, two tickets to paradise.
   I've got, two tickets to paradise.
  
-[Solo]
+Solo
 
-[Bridge]
-oh-oh, ooh, oh oo-oh ooh oh ooh oh-ooh oh-oh
+    oh-oh...
  
 I'm gonna take you on a trip so far from here.
 I've got two tickets in my pocket, baby, gonna disappear. (Know why?)
