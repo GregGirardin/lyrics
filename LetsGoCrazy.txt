@@ -1,5 +1,9 @@
 Let's Go Crazy
 
+I: F# BM7
+V: F# B
+C: C# D#m B C# - F# C#m7
+
   Dearly beloved, we have gathered here today
   To get through this thing called life
   Electric word life it means forever and that's a mighty long time
@@ -30,7 +34,7 @@ Let's go crazy
   Are we gonna let the elevator bring us down oh, no let's go, go crazy
   I said let's go, go crazy
 
-  Dr. Everything'll Be Alright make everything go wrong
+  Dr. Everything'll be alright make everything go wrong
   Pills and thrills and daffodils will kill
   Hang tough children
   He's comin'
