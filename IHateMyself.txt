@@ -1,6 +1,13 @@
 I Hate Myself for Lovin You
 
-Midnight, gettin' uptight, where are you?
+G|--9-12-9--7-9---7---7-----7-9-
+D|--9-12-9--7-9---7---7-----7-9-
+A|--7-10-7--5-7---5---5-----5-7-
+E|------------------7---7-------
+
+V: (E A B)  P: (G A) B7  C: E A B
+
+Midnight, gettin uptight, where are you?
 You said you'd meet me, now it's quarter to two
 I know I'm hangin' but I'm still wantin' you
 
@@ -16,6 +23,8 @@ I'm not getting jealous, don't like lookin' like a clown
   I wanna walk but I run back to you
   That's why I hate myself for loving you
 
+(Intro riff x 2)
+
 Daylight, spent the night without you
 But I've been dreamin' 'bout the lovin' you do
 I'm over being angry 'bout the hell you put me through
@@ -28,4 +37,4 @@ Chorus
 
 Solo
 
-Chorus / accapella
+Chorus / acapella

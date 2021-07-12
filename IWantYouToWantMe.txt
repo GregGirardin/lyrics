@@ -1,10 +1,9 @@
 I Want You To Want Me
 
-A G D A
-
-V: A /G# F#m /E - D /C# A /G# - F#m /E D /C# A /G#
-P: F#m B G A - F#m B G F#m
-C: A E F#m D 
+I: A   G D A
+1: A F#m D A - F#m D A <- "I want you.."
+2: (F#m B G) [A | F#m] <- "I'd shine up.."
+3: A E F#m D <----------- "Didn't I.."
 
 I want you to want me I need you to need me
 I'd love you to love me I'm beggin' you to beg me
